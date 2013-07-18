@@ -1,3 +1,5 @@
 name: Kris Hartrum
 markdown: redcarpet
 permalink: /blog/:year/:month/:title
+prose:
+  media: "resources"
