@@ -1,4 +1,7 @@
 name: Kris Hartrum
+author: Kris Hartrum
+keywords:
+description: The website of writer Kris Hartrum.
 markdown: redcarpet
 permalink: /blog/:year/:month/:title
 prose:

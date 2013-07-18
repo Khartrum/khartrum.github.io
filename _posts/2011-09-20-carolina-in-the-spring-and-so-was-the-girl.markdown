@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAROLINA IN THE SPRING AND SO WAS THE GIRL
-tags: []
 status: publish
 type: post
 published: true

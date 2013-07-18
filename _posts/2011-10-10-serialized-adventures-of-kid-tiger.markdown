@@ -5,6 +5,7 @@ tags: []
 status: publish
 type: post
 published: true
+extra: BUGGA BUGGA
 meta:
   _edit_last: '1'
 ---
