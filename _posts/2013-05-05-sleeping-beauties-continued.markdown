@@ -1,12 +1,7 @@
 ---
 layout: post
 title: SLEEPING BEAUTIES Continued
-tags: []
-status: publish
-type: post
 published: true
-meta:
-  _edit_last: '1'
 ---
 &nbsp;
 <p style="text-align: center;"><a href="http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/"><img class="aligncenter  wp-image-496" title="a98466_cuddle" src="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2013/05/a98466_cuddle.jpg" alt="" width="450" height="171" /></a></p>

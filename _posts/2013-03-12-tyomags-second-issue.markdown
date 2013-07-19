@@ -1,12 +1,7 @@
 ---
 layout: post
 title: TYOmag's Second Issue
-tags: []
-status: publish
-type: post
 published: true
-meta:
-  _edit_last: '1'
 ---
 <p style="text-align: center;"> <a href="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2013/03/TYO2.png"><img class="aligncenter  wp-image-466" title="TYO2" src="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2013/03/TYO2.png" alt="" width="449" height="449" /></a></p>
 <p style="text-align: center;"></p>
