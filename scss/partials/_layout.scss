@@ -1,0 +1,45 @@
+header.home {
+	padding-bottom: 3em;
+	padding-top: 2em;
+	@media (min-width: $desktop) {padding-bottom: 4em; padding-top: 3em;}
+}
+
+.selected-writing{
+	@media (min-width: $desktop) {padding-left: 10%;}
+
+	h2 {
+		font-style: italic; 
+		margin: .5em 0;}
+	ul {
+		list-style: none; 
+		margin: 0;
+		padding-left: 0;
+		text-align: center;
+		@media (min-width: $desktop) {text-align: left;}
+	}
+	li {
+		padding-bottom: .5em;
+		text-transform: uppercase;
+		span {
+			color: grey; 
+			font-size: .7em;
+			padding: 0 .5em;
+			text-transform: lowercase;
+		}
+	}
+}
+
+.about {
+	background-color: $dark;
+	color: white;
+	font-style: italic;
+	padding: 3em 0;
+	@media (min-width: $desktop) {padding: 4.5em 0;}
+}
+
+.blog-home {
+	h2 {
+		text-align: center;
+		a {color: $dark;}
+	}
+}

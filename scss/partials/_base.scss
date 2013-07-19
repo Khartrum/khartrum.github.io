@@ -1,0 +1,76 @@
+* {box-sizing: border-box;}
+
+body {
+	background-color: white;
+	color: $dark;
+	font-family: $fontstack;
+	font-size: 120%;
+	@media (min-width: $desktop) {font-size: 135%;}
+}
+
+img {
+	height: auto;
+	width: 100%;
+}
+
+a {
+	color: #BA3838;
+	text-decoration: none;
+	&:hover {text-decoration: underline;}
+}
+
+p {line-height: 1.58}
+
+.wrapped {
+	margin: 0 auto;
+	max-width: 50em;
+	width: 95%;
+	@media (min-width: $desktop) {width: 98%;}
+}
+
+.half {
+	@media (min-width: $desktop) {width: 50%;}
+}
+
+.clear {
+	clear: both;
+	overflow: hidden;
+}
+
+.float {
+	@media (min-width: $desktop) {float: left;}
+}
+
+.readability {
+	margin: 0 auto;
+	max-width: 35em;
+}
+
+.post-container {
+	position: relative;
+	footer {text-align: center;}
+}
+
+.post {
+	header {text-align: center;}
+	h1 {
+		margin: 0;
+		a { 
+			color: $dark;
+			&:hover{text-decoration: none;}
+		}
+	}
+	.date {
+		color: $light;
+		font-style: italic;
+		text-align: center;
+	}
+}
+
+nav.prev-next{
+
+	a.previous{
+		font-size: .9em;
+		float: left; 
+	}
+}
