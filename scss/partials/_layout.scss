@@ -21,25 +21,50 @@ header.home {
 		padding-bottom: .5em;
 		text-transform: uppercase;
 		span {
-			color: grey; 
+			color: $light; 
 			font-size: .7em;
 			padding: 0 .5em;
 			text-transform: lowercase;
 		}
+		.domain {
+			border-left: 1px solid $light;
+		}
 	}
+	.read-more {float:right; padding-right: 4em;}
 }
 
 .about {
 	background-color: $dark;
-	color: white;
+	color: #E9E9E9;
 	font-style: italic;
 	padding: 3em 0;
 	@media (min-width: $desktop) {padding: 4.5em 0;}
 }
 
 .blog-home {
+	.section-title {text-align: center;}
 	h2 {
-		text-align: center;
-		a {color: $dark;}
+		border: 3px solid $dark;
+		border-radius: 2px;
+		display: inline-block;
+		font-style: italic;
+		padding: .06em 1em;
+		@include skew(-12deg, 0);
+		a {
+			color: $dark;
+			display: block;
+			@include skew(12deg, 0);
+		}
 	}
+}
+
+.interior {
+	nav{
+		padding-bottom: 2em;
+		padding-top: 1em;
+		text-align: center;
+		@media (min-width: $desktop) {padding-bottom: 2em; padding-top: 1em;}
+		li {padding-left: 4em;}
+	}
+	.logo {max-width: 8em;}
 }

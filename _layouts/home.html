@@ -5,18 +5,18 @@ layout: base
 <header class="home">
 	<div class="wrapped clear">
 
-		<div class="half float">
-			<img src="resources/KH2.png" alt="">
+		<div class="half float-left">
+			<img src="resources/KH2@2x.png" alt="">
 		</div>
 
-		<div class="half float selected-writing">
+		<div class="half float-left selected-writing">
 			<h2>Selected Writing</h2>
 			<ul>
 				{% for item in page.writing %}	
-				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span></li>
+				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span>{% if item.domain %}<span class="domain">{{item.domain}}</span>{% endif %}</li>
 				{% endfor %}
 			</ul>
-			<a href="/work">Read more writing</a>
+			<a href="/work" class="read-more">Read more writing &raquo; </a>
 		</div>
 
 	</div><!-- wrapped -->
@@ -31,12 +31,14 @@ layout: base
 </section>
 
 <section class="post-container blog-home">
-	<h2><a href="/blog">Blog</a></h2>
-	
+	<div class="section-title">
+		<h2><a href="/blog">Blog</a></h2>
+	</div>
+
 	<article class="readability post wrapped">
 	{% assign first_post = site.posts.first %}
 		<header>
-			<h1><a href="{{ first_post.url }}">{{ first_post.title }}</a></h1>
+			<h1 class="title"><a href="{{ first_post.url }}">{{ first_post.title }}</a></h1>
 		  	<span class="date">{{ first_post.date | date_to_string }}</span>
 		</header>
 	  	
