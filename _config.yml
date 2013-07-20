@@ -18,8 +18,3 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-      - name: "image"
-        field:
-          element: "text"
-          label: "Photo URL"
-          value: "/resources/"

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Test POST
-tags: []
-status: draft
-type: post
 published: true
-meta:
-  _edit_last: '1'
 ---
 <a href="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2011/09/FH0000243.jpg"><img class="aligncenter size-full wp-image-20" title="FH0000243.jpg" src="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2011/09/FH0000243.jpg" alt="" /></a>
 <div>
