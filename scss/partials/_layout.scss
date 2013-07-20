@@ -9,6 +9,7 @@ header.home {
 	@media (min-width: $desktop) {padding-left: 10%; display: inherit;}
 
 	h2 {
+		font-weight: normal;
 		font-style: italic; 
 		margin: .5em 0;}
 	ul {
@@ -49,6 +50,7 @@ header.home {
 	h2 {
 		display: inline-block;
 		font-style: italic;
+		font-weight: normal;
 		text-align: center;	
 		a {
 			color: $dark;
