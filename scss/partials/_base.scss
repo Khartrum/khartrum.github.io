@@ -5,11 +5,11 @@ html {
 }
 
 body {
-	background-color: white;
+	background-color: $dark;
 	color: $text;
 	font-family: $fontstack;
 	font-size: 120%;
-	@media (min-width: $desktop) {font-size: 135%;}
+	@media (min-width: $desktop) {font-size: 135%; background-color: white}
 }
 
 img {
@@ -27,6 +27,11 @@ p {line-height: 1.58}
 
 .mobile {
 	@media (min-width:$desktop) {display:none;}
+}
+
+.desk {
+	display: none;
+	@media (min-width:$desktop) {display:inherit;}
 }
 
 .wrapped {
