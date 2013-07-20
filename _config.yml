@@ -4,9 +4,8 @@ keywords:
 description: The website of writer Kris Hartrum.
 markdown: redcarpet
 permalink: /blog/:year/:month/:title
-baseurl: /khartrum
 prose:
-  media: "media"
+  media: "resources"
   metadata:
     _posts:
       - name: "layout"

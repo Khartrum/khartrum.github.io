@@ -6,11 +6,11 @@ layout: base
 	<div class="wrapped clear">
 
 		<div class="mobile">
-			<img src="{{ site.baseurl }}/resources/KH2whitealt@2x.png" alt="">
+			<img src="resources/KH2whitealt@2x.png" alt="">
 		</div>
 
 		<div class="half float-left desk">
-			<img src="{{ site.baseurl }}/resources/KH2@2x.png" alt="">
+			<img src="resources/KH2@2x.png" alt="">
 		</div>
 
 		<div class="half float-left selected-writing">
@@ -20,7 +20,7 @@ layout: base
 				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span>{% if item.domain %}<span class="domain">{{item.domain}}</span>{% else %}<span class="domain">{{item.url | remove: 'http://' | split: '/' | first}}</span>{% endif %}</li>
 				{% endfor %}
 			</ul>
-			<a href="{{ site.baseurl }}/work" class="read-more">Read more writing &raquo; </a>
+			<a href="/work" class="read-more">Read more writing &raquo; </a>
 		</div>
 
 	</div><!-- wrapped -->
@@ -28,9 +28,9 @@ layout: base
 
 <nav class="mobile">
 	<ul>
-		<li><a href="{{ site.baseurl }}/work">Writing & Projects</a></li>
-		<li><a href="{{ site.baseurl }}/blog">Blog</a></li>
-		<li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+		<li><a href="/work">Writing & Projects</a></li>
+		<li><a href="/blog">Blog</a></li>
+		<li><a href="/contact">Contact</a></li>
 	</ul>
 </nav>
 
@@ -44,7 +44,7 @@ layout: base
 
 <section class="post-container blog-home">
 	<div class="section-title">
-		<h2><a href="{{ site.baseurl }}/blog">from the Blog</a></h2>
+		<h2><a href="/blog">from the Blog</a></h2>
 	</div>
 
 	<article class="readability post wrapped">
@@ -71,7 +71,7 @@ layout: base
 	  	{% endif %}
 		</nav>
 		
-		<a href="{{ site.baseurl }}/blog">Browse all posts</a>
+		<a href="/blog">Browse all posts</a>
 	</footer>
 
 </section>
@@ -82,8 +82,8 @@ layout: base
 	</div>
 	<nav class="secondary">
 		<ul>
-			<li><a href="{{ site.baseurl }}/blog">Blog</a></li>
-			<li><a href="{{ site.baseurl }}/work">Writing & Projects</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/work">Writing & Projects</a></li>
 		</ul>
 	</nav>
 </footer>
