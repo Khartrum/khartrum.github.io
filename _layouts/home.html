@@ -13,7 +13,7 @@ layout: base
 			<h2>Selected Writing</h2>
 			<ul>
 				{% for item in page.writing %}	
-				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span>{% if item.domain %}<span class="domain">{{item.domain}}</span>{% endif %}</li>
+				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span>{% if item.domain %}<span class="domain">{{item.domain}}</span>{% else %}<span class="domain">{{item.url | remove: 'http://' | split: '/' | first}}</span>{% endif %}</li>
 				{% endfor %}
 			</ul>
 			<a href="/work" class="read-more">Read more writing &raquo; </a>
@@ -32,7 +32,7 @@ layout: base
 
 <section class="post-container blog-home">
 	<div class="section-title">
-		<h2><a href="/blog">Blog</a></h2>
+		<h2><a href="/blog">from the Blog</a></h2>
 	</div>
 
 	<article class="readability post wrapped">
@@ -64,7 +64,7 @@ layout: base
 
 </section>
 
-<footer>
+<footer class="footer-home">
 	<div class="contact" id="contact">
 		<h2>Contact</h2>
 	</div>
@@ -75,3 +75,11 @@ layout: base
 		</ul>
 	</nav>
 </footer>
+
+<nav class="mobile">
+	<ul>
+		<li><a href="/work">Writing & Projects</a></li>
+		<li><a href="/blog">Blog</a></li>
+		<li><a href="/contact">Contact</a></li>
+	</ul>
+</nav>
