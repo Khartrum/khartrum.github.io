@@ -89,7 +89,7 @@ header.home {
 	li:nth-child(1) {
 		border-top: 5px solid white;
 	}
-	a.button{
+	.button{
 		color: white;
 		display: block;
 		padding: 1.2em 0;
@@ -104,6 +104,7 @@ header.home {
 	}
 	.content {
 		background: white;
+		display: none;
 		padding: .7em 0;
 		h1 {font-size: 1.2em}
 		.read-all {display:block; padding:1em 0; text-align: center;}
