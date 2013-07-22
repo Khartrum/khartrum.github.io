@@ -1,8 +1,8 @@
 header.home {
-	padding: 2em 0;
+	padding-top: 2em ;
 	@media (min-width: $desktop) {padding-bottom: 4em; padding-top: 3em;}
 	.logo {
-		background-image: url("resources/KH2whitealt@2x.png");
+		background-image: url("/resources/KH2whitealt@2x.png");
 		background-position:50% 50%; 
 		background-repeat:no-repeat; 
 		background-size: contain;
@@ -23,11 +23,17 @@ header.home {
 }
 
 .selected-writing{
-	padding-left: 7%;
+	background: white;
+	margin-top: 2em;
+	@media (min-width: $desktop) {padding-left: 7%; margin-top: 0;}
+
 	h2 {
 		font-weight: normal;
 		font-style: italic; 
-		margin: .5em 0;}
+		margin: .7em 0;
+		text-align: center;
+		@media (min-width:$desktop) {text-align:left;}
+	}
 	ul {
 		list-style: none; 
 		margin: 0;
@@ -47,7 +53,18 @@ header.home {
 			border-left: 1px solid $light;
 		}
 	}
-	.read-more {float:right; padding-right: 4em;}
+}
+
+.read-more {
+	display:block; 
+	text-align: center; 
+	padding: 1em 0 2em 0;
+	@media (min-width: $desktop) {padding: 1em 0;}
+}
+
+.writing-link {
+	@media (min-width: $desktop){padding-right: 4em; text-align: right; }
+
 }
 
 .about {
@@ -59,8 +76,8 @@ header.home {
 }
 
 .blog-home {
-	display: none;
-	@media (min-width: $desktop){display: inherit;}
+	background: white;
+	@media (min-width:$desktop) {padding-bottom: 3em;}
 	.section-title {text-align: center;}
 	h2 {
 		display: inline-block;
@@ -73,23 +90,15 @@ header.home {
 	}
 }
 
-.footer-home {
-	display: none;
-	@media (min-width: $desktop){display: inherit;}
-}
 
 .mobile-nav {
 	ul{
 		list-style: none; 
 		padding: 0; 
 		margin: 0;}
-	li {
-		border-bottom: 5px solid white;
-	}
-	li:nth-child(1) {
-		border-top: 5px solid white;
-	}
 	.button{
+		background: $dark;
+		border-top: 5px solid white;
 		color: white;
 		display: block;
 		padding: 1.2em 0;
@@ -102,16 +111,14 @@ header.home {
 		&:active {background: white; color: $dark;}
 		&:hover {text-decoration: none;}
 	}
-	.content {
-		background: white;
-		display: none;
-		padding: .7em 0;
-		h1 {font-size: 1.2em}
-		.read-all {display:block; padding:1em 0; text-align: center;}
-		h2 {margin: 0; padding-bottom: .7em;text-align: center;}
-	}
-
 }
+
+.contact{
+	background: white;
+	.form {padding-top: 1em;}
+	.button {border-bottom: 5px solid white;}
+}
+
 
 .interior {
 	nav{
@@ -122,4 +129,19 @@ header.home {
 		li {padding-left: 4em;}
 	}
 	.logo {max-width: 8em;}
+}
+
+.footer-home {
+	background: $dark;
+	padding: 3em 0 4em 0;
+	ul {
+		margin:0;
+		text-align: center;
+	}
+	li {
+		padding: 0 3em;
+		text-transform: uppercase;
+		a{color: white;}
+	}
+
 }

@@ -2,61 +2,32 @@
 layout: base
 ---
 
-<header class="home clear">
-	<div class="wrapped">
+<header class="home">
+	<div class="wrapped clear">
 		
 		<h1 class="half float-left logo">Kris Hartrum</h1>
 
-		<section class="half float-left selected-writing desk">
+		<section class="half float-left selected-writing">
+
+			<div class="mobile-nav mobile">
+				<span class="button" id="mworkb">Writing & Projects</span>
+			</div>
+			
+			<div class="mobile-wrapped desk" id="mwork">
 			<h2>Selected Writing</h2>
 			<ul>
 				{% for item in page.writing %}	
 				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span>{% if item.domain %}<span class="domain">{{item.domain}}</span>{% else %}<span class="domain">{{item.url | remove: 'http://' | split: '/' | first}}</span>{% endif %}</li>
 				{% endfor %}
 			</ul>
-			<a href="/work" class="read-more">Read more writing &raquo; </a>
+			<a href="/work" class="read-more writing-link">See more writing &amp; projects &raquo; </a>
+			</div>
 		</section>
 
 	</div><!-- wrapped -->
 </header>
 
-<section class="mobile-nav mobile">
-	<ul>
-		<li><span class="button" id="mworkb">Writing & Projects</span>
-			<div class="content selected-writing" id="mwork">
-		 		<div class="wrapped">
-				<h2>Selected Writing</h2>
-				<ul>
-				{% for item in page.writing %}	
-				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span>{% if item.domain %}<span class="domain">{{item.domain}}</span>{% else %}<span class="domain">{{item.url | remove: 'http://' | split: '/' | first}}</span>{% endif %}</li>
-				{% endfor %}
-				</ul>
-				<a href="/work" class="read-all">See more writing &amp; projects &raquo; </a>
-				</div>
-			</div>
-
-		</li>
-
-		<li><span class="button" id="mblogb">Blog</span>
-				{% assign first_post = site.posts.first %}
-				<article class="content post" id="mblog">
-				<header>
-					<h1 class="title"><a href="{{ first_post.url }}">{{ first_post.title }}</a></h1>
-		  			<span class="date">{{ first_post.date | date_to_string }}</span>
-				</header>
-				<div class="wrapped">
-	    		{{ first_post.content | truncatewords: 70 }}<a href="{{ first_post.url }}"> More &raquo;</a>
-	  			</div>
-
-	  			<a href="/blog" class="read-all">Read all posts</a>
-
-				</article>
-		</li>
-		<li><a href="/contact" class="button">Contact</a></li>
-	</ul>
-</section>
-
-<section class="about">
+<section class="about desk">
 	<div class="wrapped">
 	<p class="readability">
 		{{content}} <a href="#contact">Contact Kris</a>.
@@ -65,41 +36,67 @@ layout: base
 </section>
 
 <section class="post-container blog-home">
-	<div class="section-title">
-		<h2><a href="/blog">from the Blog</a></h2>
-	</div>
 
-	<article class="readability post wrapped">
+	<div class="mobile-nav mobile">
+		<span class="button" id="mblogb">Blog</span>
+	</div>
+	
+	<div id="mblog" class="desk">
+	<article class="readability post mobile-wrapped wrapped">
 	{% assign first_post = site.posts.first %}
 		<header>
 			<h1 class="title"><a href="{{ first_post.url }}">{{ first_post.title }}</a></h1>
 		  	<span class="date">{{ first_post.date | date_to_string }}</span>
 		</header>
 	  	
-	  	<div>
+	  	<div class="desk">
 	    {{ first_post.content }}
 	  	</div>
-	
+
+	  	<div class="mobile">
+	    	{{ first_post.content | truncatewords: 70 }}
+	    	<a href="{{ first_post.url }}"> More &raquo;</a>
+	  	</div>
+		
 	</article>
-	
-	<footer>
-		<nav class="prev-next">
+
+		<nav class="prev-next desk readability clear">
 		{% if first_post.previous.url %}
-	 	<a href="{{first_post.previous.url}}" class="previous">previous</a>
+	 	<a href="{{first_post.previous.url}}" class="previous">&laquo; previous</a>
 	 	{% endif %}
 
 	 	{% if first_post.next.url %}
 	 	<a href="{{first_post.next.url}}" class="next">next</a>
 	  	{% endif %}
 		</nav>
-		
-		<a href="/blog">Read all posts</a>
-	</footer>
 
+
+	<a href="/blog" class="read-more">Read all posts</a>
+	</div>
+			
 </section>
 
-<footer class="footer-home">
-	<section class="contact" id="contact">
-		<h2>Contact</h2>
-	</section>
+
+<section class="contact half">
+	<div class="mobile-nav mobile">
+		<a href="/contact" class="button" id="contactb">Contact</a>
+	</div>
+</section>
+
+<section class="about mobile">
+	<div class="mobile-wrapped">
+	<p class="readability">
+		{{content}}
+	</p>
+	</div>
+</section>
+
+<footer class="footer-home desk">
+	<nav>
+		<ul class="inline-list">
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/work">Writing & Projects</a></li>
+			<li><a href="/contact">Contact</a></li>
+		</ul>
+	</nav>
 </footer>
