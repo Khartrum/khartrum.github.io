@@ -1,5 +1,5 @@
 header.home {
-	padding-top: 2em ;
+	@media (min-width: 400px) {padding-top: 2em;}
 	@media (min-width: $desktop) {padding-bottom: 4em; padding-top: 3em;}
 }
 
@@ -9,7 +9,6 @@ header.home {
 	background-repeat:no-repeat; 
 	background-size: contain;
 	height: 266px;
-	margin: 0;
 	/*image replacement*/ 
 	border: 0;
   	font: 0/0 a;
@@ -25,7 +24,7 @@ header.home {
 
 .selected-writing{
 	background: white;
-	margin-top: 2em;
+	@media (min-width: 400px) {margin-top: 2em;}
 	@media (min-width: $desktop) {padding-left: 7%; margin-top: 0;}
 
 	h2 {
