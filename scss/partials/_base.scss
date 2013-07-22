@@ -72,10 +72,11 @@ p {line-height: 1.58}
 
 .readability {
 	margin: 0 auto;
-	max-width: 35em;
+	max-width: 34em;
 }
 
 .post-container {
+	background: white;
 	position: relative;
 	footer {text-align: center;}
 }
@@ -102,16 +103,19 @@ p {line-height: 1.58}
 .inline-list {
 	list-style: none;
 	padding: 0;
-	li {display: inline-block;}
+	li {
+		@media (min-width: $desktop) {display: inline-block;}
+	}
 }
 
 nav.prev-next{
-	
 	border-top: 1px solid $light;
 	padding-top: 1em;
 	margin-top: 2em;  
-	a.previous{
-		font-size: .9em;
-		float: left; 
+	a{
+		display: inline-block;
+		font-size: .9em; 
 	}
+	.previous {float: left; padding-left:1em;}
+	.next {float: right; padding-right:1em;}
 }

@@ -1,14 +1,10 @@
 ---
 layout: post
 title: New Tokyo Based Art/ Literary website Promises to be Cool
-tags: []
-status: publish
-type: post
 published: true
-meta:
-  _edit_last: '1'
 ---
-<p style="text-align: center;"><a href="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2012/09/2368791363_357e11ec47_o.jpg"><img class=" wp-image-354 aligncenter" title="2368791363_357e11ec47_o" src="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2012/09/2368791363_357e11ec47_o.jpg" alt="" width="640" height="383" /></a></p>
+![](/media/tyo1.jpg)
+
 TYO is a three-letter abbreviation that may refer to:
 
 Tokyo, Japan

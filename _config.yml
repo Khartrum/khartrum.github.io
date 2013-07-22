@@ -5,7 +5,7 @@ description: The website of writer Kris Hartrum.
 markdown: redcarpet
 permalink: /blog/:year/:month/:title
 prose:
-  media: "resources"
+  media: "media"
   metadata:
     _posts:
       - name: "layout"

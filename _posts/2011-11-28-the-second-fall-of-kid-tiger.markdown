@@ -1,28 +1,27 @@
 ---
 layout: post
 title: THE SECOND FALL OF KID TIGER
-tags: []
-status: publish
-type: post
 published: true
-meta:
-  _edit_last: '1'
 ---
-<div style="text-align: center;"><a href="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2011/11/af1ccd1418e311e1a87612313804ec91_7.jpg"><img class="alignnone size-full wp-image-122" title="af1ccd1418e311e1a87612313804ec91_7" src="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2011/11/af1ccd1418e311e1a87612313804ec91_7.jpg" alt="" width="612" height="612" /></a></div>
-<div>Below is the script idea for <strong>THE SECOND FALL of KID TIGER</strong>. It is the humble sequel to CREME. We're shooting the existential wanderings through the city and by the sea in our free time.</div>
-<div>_________________________________</div>
-<div>THE SECOND FALL OF KID TIGER
-Original Script
-Written by K. Hartrum
-Color</div>
-<div>TIGER FANTASIZES ABOUT GIRL
-TIGER SEES GIRL
-TIGER LOSES GIRL
-TIGER GETS DRUNK
-TIGER DREAMS OF WOMAN AND THE SEA
-TIGER SEES TIGERESS THROUGH WINDOW OF MOVING TRAIN
-__________________</div>
-<div>
+![](/media/af1ccd1418e311e1a87612313804ec91_7.jpg)
+
+Below is the script idea for <strong>THE SECOND FALL of KID TIGER</strong>. It is the humble sequel to CREME. We're shooting the existential wanderings through the city and by the sea in our free time.
+
+_________________________________
+
+
+THE SECOND FALL OF KID TIGER<br>
+Original Script<br>
+Written by K. Hartrum<br>
+Color
+
+TIGER FANTASIZES ABOUT GIRL<br>
+TIGER SEES GIRL<br>
+TIGER LOSES GIRL<br>
+TIGER GETS DRUNK<br>
+TIGER DREAMS OF WOMAN AND THE SEA<br>
+TIGER SEES TIGERESS THROUGH WINDOW OF MOVING TRAIN<br>
+__________________
 
 Prologue:
 
@@ -36,8 +35,6 @@ CUT TO
 
 Again we see the poster. It is clear that the tiger is focusing on the image of the woman in front of him.
 
-</div>
-<div>
 
 CUT TO
 
@@ -49,19 +46,19 @@ CUT TO
 The screen is black for an extended period of time. We hear classical music, which will become the theme.
 (something like MAURICE RAVEL: BOLERO or Prelude op 23 No 5: Rachmaninoff)
 
-</div>
-<div><!--more-->
-We see the text:</div>
-<div></div>
-<div>THE SECOND FALL OF KID TIGER
-FADE MUSIC OUT WITH SOUNDS OF THE SUBWAY</div>
-<div></div>
-<div>FADE OUT TEXT</div>
-<div></div>
-<div>FADE IN</div>
-<div></div>
-<div>1. INT. TOKYO METRO/SHINJUKU STATION
-Possible b-roll of random people on the subway. A young woman is riding a Tokyo metro train. She stands facing the doors preparing to exit. The train is crowded. A female voice announces the train’s arrival at Shinjuku station. The doors open. The girl steps off and follows the large, quiet crowd of commuters out of the train.</div>
+
+<!--more-->
+We see the text:
+
+THE SECOND FALL OF KID TIGER
+FADE MUSIC OUT WITH SOUNDS OF THE SUBWAY
+
+FADE OUT TEXT
+
+FADE IN
+
+1. INT. TOKYO METRO/SHINJUKU STATION
+Possible b-roll of random people on the subway. A young woman is riding a Tokyo metro train. She stands facing the doors preparing to exit. The train is crowded. A female voice announces the train’s arrival at Shinjuku station. The doors open. The girl steps off and follows the large, quiet crowd of commuters out of the train.
 .
 CUT TO
 
@@ -181,4 +178,4 @@ We see the text:
 TIGER ROAR!</p>
 
 END
-</div>
+

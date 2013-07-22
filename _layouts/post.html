@@ -2,13 +2,31 @@
 layout: default
 ---
 
-<article role="main">
-
-	<h1>{{ page.title }}</h1>
-	<p class="meta">{{ page.date | date_to_string }}</p>
+<section class="post-container">
 	
-	<class="post">
-		{{ content }}
-	</div>
+	<article class="readability post mobile-wrapped wrapped" role="main">
+		<header>
+			<h1 class="title">{{ page.title }}</h1>
+		  	<span class="date">{{ page.date | date_to_string }}</span>
+		</header>
+	  	
+	  	<div class="post-body">
+	    {{ content }}
+		</div>
 
-</article>
+	</article>
+
+		<nav class="prev-next readability clear">
+		{% if page.previous.url %}
+	 	<a href="{{page.previous.url}}" class="previous">&laquo; previous</a>
+	 	{% endif %}
+
+	 	{% if page.next.url %}
+	 	<a href="{{page.next.url}}" class="next">next &raquo;</a>
+	  	{% endif %}
+		</nav>
+
+
+	<a href="/blog" class="read-more">Read all posts</a>
+
+</section>

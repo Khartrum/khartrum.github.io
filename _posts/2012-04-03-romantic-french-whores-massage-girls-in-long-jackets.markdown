@@ -8,10 +8,10 @@ published: true
 meta:
   _edit_last: '1'
 ---
-&nbsp;
-<p style="text-align: center;"><strong> 1</strong></p>
-<p style="text-align: center;"><a href="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2012/04/photo-L-Apollonide-Souvenirs-de-la-maison-close-2010-31.jpg"><img class="aligncenter  wp-image-230" title="photo-L-Apollonide-Souvenirs-de-la-maison-close-2010-3" src="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2012/04/photo-L-Apollonide-Souvenirs-de-la-maison-close-2010-31.jpg" alt="" width="599" height="458" /></a></p>
-&nbsp;
+
+**1**
+
+![](/media/photo-L-Apollonide-Souvenirs-de-la-maison-close-2010-31.jpg)
 
 French whores with painted faces in ornate dresses smoking opium near the turn of the century appear lost and sad and beautiful in Bertrand Bonello’s House of Tolerance (L'Apollonide Souvenirs de la maison close/ 2011). The audience is given an uncensored view of an upscale French brothel somewhere along the Parisian countryside where repetitive nights seem endless, save the occasional lazy afternoon spent near the river, mutilation, new girl or syphilitic episode.
 

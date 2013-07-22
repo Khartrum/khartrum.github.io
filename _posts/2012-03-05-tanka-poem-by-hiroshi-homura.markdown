@@ -8,8 +8,8 @@ published: true
 meta:
   _edit_last: '1'
 ---
-&nbsp;
-<p style="text-align: center;"><a href="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2012/03/by_edouard_boubat.jpg"><img class="aligncenter size-full wp-image-165" title="by_edouard_boubat" src="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2012/03/by_edouard_boubat.jpg" alt="" width="589" height="614" /></a></p>
+![](/media/by_edouard_boubat.jpg)
+
 Tanka is a short poem 短歌. It is one of the traditional forms of Japanese verse. Recently, a friend asked me to read this one by Hiroshi Homura and I haven't been able to forget it.
 
 &nbsp;

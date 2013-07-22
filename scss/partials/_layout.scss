@@ -1,26 +1,27 @@
 header.home {
 	padding-top: 2em ;
 	@media (min-width: $desktop) {padding-bottom: 4em; padding-top: 3em;}
-	.logo {
-		background-image: url("/resources/KH2whitealt@2x.png");
-		background-position:50% 50%; 
-		background-repeat:no-repeat; 
-		background-size: contain;
-		height: 266px;
-		margin: 0;
-		/*image replacement*/ 
-		border: 0;
-  		font: 0/0 a;
-  		text-shadow: none;
-  		color: transparent;
+}
 
-		
-		@media (min-width: $desktop) {
-			background-image: url("/resources/KH2@2x.png");
-			height: 400px;
-		}
+.logo {
+	background-image: url("/resources/KH2whitealt@2x.png");
+	background-position:50% 50%; 
+	background-repeat:no-repeat; 
+	background-size: contain;
+	height: 266px;
+	margin: 0;
+	/*image replacement*/ 
+	border: 0;
+  	font: 0/0 a;
+  	text-shadow: none;
+  	color: transparent;
+	
+	@media (min-width: $desktop) {
+		background-image: url("/resources/KH2@2x.png");
+		height: 400px;
 	}
 }
+
 
 .selected-writing{
 	background: white;
@@ -121,17 +122,13 @@ header.home {
 
 
 .interior {
-	nav{
-		padding-bottom: 2em;
-		padding-top: 1em;
-		text-align: center;
-		@media (min-width: $desktop) {padding-bottom: 2em; padding-top: 1em;}
-		li {padding-left: 4em;}
-	}
-	.logo {max-width: 8em;}
 }
 
-.footer-home {
+.post-body {
+	padding-top: 1em;
+}
+
+.footer-site {
 	background: $dark;
 	padding: 3em 0 4em 0;
 	ul {
@@ -139,9 +136,11 @@ header.home {
 		text-align: center;
 	}
 	li {
-		padding: 0 3em;
 		text-transform: uppercase;
+		@media (min-width: $desktop) {padding-right: 3.5em;}
+
 		a{color: white;}
 	}
+	li:last-child{padding-right: 0;}
 
 }

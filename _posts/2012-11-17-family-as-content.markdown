@@ -1,15 +1,10 @@
 ---
 layout: post
 title: FAMILY AS CONTENT
-tags: []
-status: publish
-type: post
 published: true
-meta:
-  _edit_last: '1'
 ---
 
-<a href="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2012/11/169572_10151060609287183_1735442117_o.jpg"><img class="size-large wp-image-379 alignnone" title="Family As Content" src="http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2012/11/169572_10151060609287183_1735442117_o-1024x768.jpg" alt="" width="640" height="480" /></a>
+![](/media/family.jpg)
 
 Three attractive Americans in their mid to late twenties pose for a photograph in a San Francisco bar wearing dapper nightwear in the 1960s. This is part of a meditative hunt for old, pretty photographs of my family as young men and women. The prize inspires in me a sentimental longing for the past and motivation for an aesthetically interesting future. America's trendy infatuation with "corrupting" nostalgia may have something to do with this, but now the conversation is old hat. We live in a period of time where all times are accessible and fair game. Everything is on the table, as is the recurrence of used angles such as accessing familial history in order to write creative narratives. It has been done forever and everywhere. The device has been a classical source of inspiration in most creative mediums since the dawn of the portrait and modern narrative, but doing it right and uniquely is the catch.
 
