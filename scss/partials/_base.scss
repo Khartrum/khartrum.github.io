@@ -34,6 +34,15 @@ p {line-height: 1.58}
 	@media (min-width:$desktop) {display:inherit;}
 }
 
+.hidden {
+	display: none;
+}
+
+.show {
+	display: inherit;
+
+}
+
 .wrapped {
 	margin: 0 auto;
 	max-width: 60em;

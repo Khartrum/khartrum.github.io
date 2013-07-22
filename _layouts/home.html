@@ -2,18 +2,12 @@
 layout: base
 ---
 
-<header class="home">
-	<div class="wrapped clear">
+<header class="home clear">
+	<div class="wrapped">
+		
+		<h1 class="half float-left logo">Kris Hartrum</h1>
 
-		<div class="mobile">
-			<img src="resources/KH2whitealt@2x.png" alt="">
-		</div>
-
-		<div class="half float-left desk">
-			<img src="resources/KH2@2x.png" alt="">
-		</div>
-
-		<div class="half float-left selected-writing">
+		<section class="half float-left selected-writing desk">
 			<h2>Selected Writing</h2>
 			<ul>
 				{% for item in page.writing %}	
@@ -21,18 +15,46 @@ layout: base
 				{% endfor %}
 			</ul>
 			<a href="/work" class="read-more">Read more writing &raquo; </a>
-		</div>
+		</section>
 
 	</div><!-- wrapped -->
 </header>
 
-<nav class="mobile">
+<section class="mobile-nav mobile">
 	<ul>
-		<li><a href="/work">Writing & Projects</a></li>
-		<li><a href="/blog">Blog</a></li>
-		<li><a href="/contact">Contact</a></li>
+		<li><a href="#mworkb" class="button" id="mworkb">Writing & Projects</a></li>
+			<div class="content selected-writing hidden" id="mwork">
+		 	<div class="wrapped">
+			<h2>Selected Writing</h2>
+				<ul>
+				{% for item in page.writing %}	
+				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span>{% if item.domain %}<span class="domain">{{item.domain}}</span>{% else %}<span class="domain">{{item.url | remove: 'http://' | split: '/' | first}}</span>{% endif %}</li>
+				{% endfor %}
+				</ul>
+			<a href="/work" class="read-all">See more writing &amp; projects &raquo; </a>
+			</div>
+			</div>
+
+		<li><a href="#mblogb" class="button" id="mblogb">Blog</a></li>
+			<div class="content post hidden" id="mblog">
+				{% assign first_post = site.posts.first %}
+				<article class="wrapped">
+				<header>
+					<h1 class="title"><a href="{{ first_post.url }}">{{ first_post.title }}</a></h1>
+		  			<span class="date">{{ first_post.date | date_to_string }}</span>
+				</header>
+				<div>
+	    		{{ first_post.content | truncatewords: 70 }}<a href="{{ first_post.url }}"> More &raquo;</a>
+	  			</div>
+
+	  			<a href="/blog" class="read-all">Read all posts</a>
+
+				</article>
+
+			</div>
+		<li><a href="/contact" class="button">Contact</a></li>
 	</ul>
-</nav>
+</section>
 
 <section class="about">
 	<div class="wrapped">
@@ -71,19 +93,15 @@ layout: base
 	  	{% endif %}
 		</nav>
 		
-		<a href="/blog">Browse all posts</a>
+		<a href="/blog">Read all posts</a>
 	</footer>
 
 </section>
 
 <footer class="footer-home">
-	<div class="contact" id="contact">
+	<section class="contact" id="contact">
 		<h2>Contact</h2>
-	</div>
-	<nav class="secondary">
-		<ul>
-			<li><a href="/blog">Blog</a></li>
-			<li><a href="/work">Writing & Projects</a></li>
-		</ul>
-	</nav>
+	</section>
 </footer>
+
+<script src="/js/js.js"></script>

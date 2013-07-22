@@ -1,13 +1,29 @@
 header.home {
 	padding: 2em 0;
 	@media (min-width: $desktop) {padding-bottom: 4em; padding-top: 3em;}
+	.logo {
+		background-image: url("/resources/KH2whitealt@2x.png");
+		background-position:50% 50%; 
+		background-repeat:no-repeat; 
+		background-size: contain;
+		height: 266px;
+		margin: 0;
+		/*image replacement*/ 
+		border: 0;
+  		font: 0/0 a;
+  		text-shadow: none;
+  		color: transparent;
+
+		
+		@media (min-width: $desktop) {
+			background-image: url("/resources/KH2@2x.png");
+			height: 400px;
+		}
+	}
 }
 
 .selected-writing{
-	display: none;
-
-	@media (min-width: $desktop) {padding-left: 10%; display: inherit;}
-
+	padding-left: 7%;
 	h2 {
 		font-weight: normal;
 		font-style: italic; 
@@ -16,7 +32,6 @@ header.home {
 		list-style: none; 
 		margin: 0;
 		padding-left: 0;
-		text-align: center;
 		@media (min-width: $desktop) {text-align: left;}
 	}
 	li {
@@ -63,30 +78,38 @@ header.home {
 	@media (min-width: $desktop){display: inherit;}
 }
 
-nav.mobile {
+.mobile-nav {
 	ul{
 		list-style: none; 
 		padding: 0; 
 		margin: 0;}
 	li {
 		border-bottom: 5px solid white;
+	}
+	li:nth-child(1) {
+		border-top: 5px solid white;
+	}
+	a.button{
+		color: white;
+		display: block;
+		padding: 1.2em 0;
 		font-size: 1.3em;
 		font-weight: bold;
 		letter-spacing: .05em;
 		text-align: center;	
 		text-transform: uppercase;
-	}
-	li:nth-child(1) {
-		border-top: 5px solid white;
-	}
-	a{
-		color: white;
-		display: block;
-		padding: 1.2em 0;
 
 		&:active {background: white; color: $dark;}
 		&:hover {text-decoration: none;}
 	}
+	.content {
+		background: white;
+		padding: .7em 0;
+		h1 {font-size: 1.2em}
+		.read-all {display:block; padding:1em 0; text-align: center;}
+		h2 {margin: 0; padding-bottom: .7em;text-align: center;}
+	}
+
 }
 
 .interior {
