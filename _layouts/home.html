@@ -16,8 +16,12 @@ layout: base
 			<div class="mobile-wrapped desk" id="mwork">
 			<h2>Selected Writing</h2>
 			<ul>
-				{% for item in page.writing %}	
-				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span>{% if item.domain %}<span class="domain">{{item.domain}}</span>{% else %}<span class="domain">{{item.url | remove: 'http://' | split: '/' | first}}</span>{% endif %}</li>
+				{% for post in site.categories.work %}
+				{% if post.selected == true %}
+				<li>
+					<a href="{{post.url}}">{{post.title}}</a><br><span>{{post.genre}}</span>{% if post.domain %}<span class="domain">{{post.domain}}</span>{% else %}<span class="domain">{{post.link | remove: 'http://' | split: '/' | first}}</span>{% endif %}
+				</li>
+				{% endif %}
 				{% endfor %}
 			</ul>
 			<a href="/work" class="writing-link">See more writing &amp; projects &raquo; </a>
