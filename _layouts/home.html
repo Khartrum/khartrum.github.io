@@ -20,7 +20,7 @@ layout: base
 				<li><a href="{{item.url}}">{{item.title}}</a><br><span>{{item.genre}}</span>{% if item.domain %}<span class="domain">{{item.domain}}</span>{% else %}<span class="domain">{{item.url | remove: 'http://' | split: '/' | first}}</span>{% endif %}</li>
 				{% endfor %}
 			</ul>
-			<a href="/work" class="read-more writing-link">See more writing &amp; projects &raquo; </a>
+			<a href="/work" class="writing-link">See more writing &amp; projects &raquo; </a>
 			</div>
 		</section>
 
@@ -30,7 +30,7 @@ layout: base
 <section class="about desk">
 	<div class="wrapped">
 	<p class="readability">
-		{{content}} <a href="#contact">Contact Kris</a>.
+		{{content}} <a href="/contact">Contact Kris</a>.
 	</p>
 	</div>
 </section>
@@ -53,7 +53,7 @@ layout: base
 	    {{ first_post.content }}
 	  	</div>
 
-	  	<div class="mobile">
+	  	<div class="mobile mobile-blog">
 	    	{{ first_post.content | truncatewords: 70 }}
 	    	<a href="{{ first_post.url }}"> More &raquo;</a>
 	  	</div>
@@ -62,16 +62,18 @@ layout: base
 
 		<nav class="prev-next desk readability clear">
 		{% if first_post.previous.url %}
-	 	<a href="{{first_post.previous.url}}" class="previous">&laquo; previous</a>
+	 	<a href="{{first_post.previous.url}}" class="previous"><span aria-hidden="true" class="icon-ARROWL"></span></a>
 	 	{% endif %}
 
 	 	{% if first_post.next.url %}
-	 	<a href="{{first_post.next.url}}" class="next">next</a>
+	 	<a href="{{first_post.next.url}}" class="next"><span aria-hidden="true" class="icon-ARROWR"></span></a>
 	  	{% endif %}
 		</nav>
 
+		<div class="read-more">
+		<a href="/blog">Read all posts</a>
+		</div>
 
-	<a href="/blog" class="read-more">Read all posts</a>
 	</div>
 			
 </section>

@@ -4,7 +4,8 @@ layout: post
 published: true
 ---
 
-III
+<p class="center">III</p>
+
 ![](/media/tyo3.jpg)
 
 My Tokyo art project (executed alongside web design genius of AD Regan) TYO mag has birthed a 3rd issue. The title of the issue is 三 (san) which means three. Within it you’ll find:

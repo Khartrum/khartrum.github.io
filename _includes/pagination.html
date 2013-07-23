@@ -1,0 +1,44 @@
+<div id="post-pagination" class="pagination">
+
+<nav class="prev-next-2 readability clear">
+    {% if paginator.previous_page %}
+
+      {% if paginator.previous_page == 1 %}
+        <a href="/blog" class="previous"><span aria-hidden="true" class="icon-ARROWL"></span></a>
+      {% else %}
+        <a href="/blog/{{ paginator.previous_page_path }}" class="previous"><span aria-hidden="true" class="icon-ARROWL"></span></a>
+      {% endif %}
+  {% else %}
+      <span class="previous"><span aria-hidden="true" class="icon-ARROWL"></span></span>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="/blog/{{ paginator.next_page_path }}" class="next"><span aria-hidden="true" class="icon-ARROWR"></span></a>
+    {% else %}
+      <span class="next"><span aria-hidden="true" class="icon-ARROWR"></span></span>
+  {% endif %}
+</nav>
+
+  <ul class="pages inline-list-2 center read-more">
+    <li class="page">
+      {% if paginator.page == 1 %}
+        <span class="current-page">1</span>
+      {% else %}
+        <a href="/blog">1</a>
+      {% endif %}
+    </li>
+
+    {% for count in (2..paginator.total_pages) %}
+      <li class="page">
+        {% if count == paginator.page %}
+          <span class="current-page">{{ count }}</span>
+        {% else %}
+          <a href="/blog/{{ count }}">{{ count }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+
+
+</div>

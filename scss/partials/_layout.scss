@@ -1,10 +1,10 @@
 header.home {
 	@media (min-width: 400px) {padding-top: 2em;}
-	@media (min-width: $desktop) {padding-bottom: 4em; padding-top: 3em;}
+	@media (min-width: $desktop) {padding-bottom: 3em;}
 }
 
 .logo {
-	background-image: url("/khartrum/resources/KH2whitealt@2x.png");
+	background-image: url("/resources/KH2whitealt@2x.png");
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	background-size: contain;
@@ -16,11 +16,29 @@ header.home {
   	color: transparent;
 	
 	@media (min-width: $desktop) {
-		background-image: url("/khartrum/resources/KH2@2x.png");
+		background-image: url("/resources/KH2@2x.png");
 		height: 400px;
 	}
 }
 
+.interior-header {
+}
+
+.logo-container {
+	padding: .7em 0;
+	max-width: 6em;
+}
+
+.interior-logo {
+	@extend .logo;
+	background-image: url("/resources/KH2whitealt.png");
+	height: 60px;
+}
+
+.interior-nav {
+	background: $dark;
+	.menu {display: block; text-align: right;}
+}
 
 .selected-writing{
 	background: white;
@@ -57,15 +75,16 @@ header.home {
 }
 
 .read-more {
-	display:block; 
 	text-align: center; 
-	padding: 1em 0 2em 0;
-	@media (min-width: $desktop) {padding: 1em 0;}
+	padding: 0 0 3em 0;
+	margin-top: -1.35em;
 }
 
 .writing-link {
-	@media (min-width: $desktop){padding-right: 4em; text-align: right; }
-
+	display: block;
+	text-align: center;
+	padding: 1.5em 0 2em 0;
+	@media (min-width: $desktop){padding-right: 4em; text-align: right; padding-bottom: 0;}
 }
 
 .about {
@@ -78,7 +97,6 @@ header.home {
 
 .blog-home {
 	background: white;
-	@media (min-width:$desktop) {padding-bottom: 3em;}
 	.section-title {text-align: center;}
 	h2 {
 		display: inline-block;
@@ -89,6 +107,10 @@ header.home {
 			color: $dark;
 		}
 	}
+}
+
+.mobile-blog {
+	padding-bottom: 2.5em;
 }
 
 
@@ -120,27 +142,62 @@ header.home {
 	.button {border-bottom: 5px solid white;}
 }
 
-
-.interior {
-}
-
 .post-body {
-	padding-top: 1em;
+	padding-top: 0;
 }
+
+.post-list{
+	section {
+		border-bottom: 1px solid $light;
+		padding: 1em 0 2em 0;
+	}
+	section:first-child {padding-top: 0;}
+}
+
+.info { border-bottom: 1px solid $light; padding-bottom: 2em;}
+
+.form {margin: 0 auto; max-width: 85%; padding: 1em 0;}
 
 .footer-site {
 	background: $dark;
-	padding: 3em 0 4em 0;
-	ul {
-		margin:0;
-		text-align: center;
-	}
-	li {
-		text-transform: uppercase;
-		@media (min-width: $desktop) {padding-right: 3.5em;}
+	padding-bottom: 2em;
+	@media (min-width: $desktop) { padding-top:1em;}
+}
 
-		a{color: white;}
-	}
-	li:last-child{padding-right: 0;}
+.page-title {
+	font-size: 1.8em;
+	font-style: italic;
+	font-weight: normal;
+	margin: 0;
+	padding: .7em 0;
+	text-align: center;
+}
 
+.page-nav {
+	@extend .inline-list;
+}
+
+.int-mobile-nav {
+	position: absolute;
+	right: 0;
+	top: .4em;
+	.menu {
+		color: white;
+		font-size: 1.3em;
+		font-style: italic; 
+		padding: .7em;
+	}
+}
+
+.int-nav-menu {
+	display: none;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	li { font-size: 1.2em; border-top: 3px solid white;}
+	a{color: white; display: block; padding: .7em 0;
+		&:active {background: white; color: $dark;}
+		&:hover {text-decoration: none;}
+	}
 }

@@ -1,0 +1,37 @@
+---
+layout: default
+---
+    <h1 class="page-title">Blog</h1>
+  <div class="post-list wrapped readability">
+
+  {% for post in paginator.posts %}
+  <section class="post-container-2">
+
+    <article class="readability post mobile-wrapped wrapped">
+    <header>
+      <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <span class="date">{{ post.date | date_to_string }}</span>
+    </header>
+      
+      <div class="post-body desk">
+        {% assign short_post = post.content | truncatewords: 70 %}
+        {% assign short_post_length = short_post | size %}
+        {% assign full_post_length = post.content | size %}
+
+        {{ short_post }}
+        
+        {% if short_post_length < full_post_length %}
+        <a href="{{ post.url }}"> Read More &raquo;</a>
+        {% elsif  short_post_length == full_post_length %}
+        <a href="{{ post.url }}"> Link to Post</a>
+        {% endif %}
+
+    </div>
+
+  </article>
+
+  </section>
+  {% endfor %}
+
+  {% include pagination.html %}
+</div>

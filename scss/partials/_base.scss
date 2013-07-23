@@ -13,8 +13,11 @@ body {
 }
 
 img {
+	display: block;
 	height: auto;
+	margin: 0 auto;
 	width: 100%;
+	@media (min-width: $desktop) {width: 90%;}
 }
 
 a {
@@ -72,7 +75,7 @@ p {line-height: 1.58}
 
 .readability {
 	margin: 0 auto;
-	max-width: 34em;
+	max-width: 32em;
 }
 
 .post-container {
@@ -88,7 +91,7 @@ p {line-height: 1.58}
 		font-style: italic;
 		font-weight: normal;
 		margin: 0;
-		padding-top: 1em;
+		padding-top: .7em;
 		@media (min-width: $desktop){font-size: 1.5em;}
 			a { 
 			color: $text;
@@ -101,6 +104,12 @@ p {line-height: 1.58}
 	}
 }
 
+.interior-body {
+	padding-bottom: 1em;
+}
+
+.alt-bg {background: white;}
+
 .inline-list {
 	list-style: none;
 	padding: 0;
@@ -109,14 +118,32 @@ p {line-height: 1.58}
 	}
 }
 
+.inline-list-2 {
+	@extend .inline-list;
+
+	li {display: inline-block; padding: 0 .2em;}
+}
+
+iframe {display:block; margin: 0 auto; max-width: 100%; }
+
 nav.prev-next{
 	border-top: 1px solid $light;
-	padding-top: 1em;
+	padding-top: 2em;
 	margin-top: 2em;  
-	a{
+	.previous .next{
 		display: inline-block;
 		font-size: .9em; 
 	}
 	.previous {float: left; padding-left:1em;}
 	.next {float: right; padding-right:1em;}
+}
+
+nav.prev-next-2 {
+	@extend nav.prev-next;
+	border-top: none;
+	margin-top: 0;
+}
+
+.center {
+	text-align: center;
 }

@@ -8,6 +8,13 @@ $('#mblogb').on("click", function() {
 })
 );
 
+$( document ).ready(
+$('#mobile-menu-b').on("click", function() {
+  $("#mobile-menu").slideToggle(200);
+})
+);
+
+
 // Find all YouTube videos
 var $allVideos = $("iframe[src^='http://www.youtube.com']"),
 

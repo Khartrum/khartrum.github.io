@@ -18,15 +18,15 @@ layout: default
 
 		<nav class="prev-next readability clear">
 		{% if page.previous.url %}
-	 	<a href="{{page.previous.url}}" class="previous">&laquo; previous</a>
+	 	<a href="{{page.previous.url}}" class="previous"><span aria-hidden="true" class="icon-ARROWL"></span></a>
 	 	{% endif %}
 
 	 	{% if page.next.url %}
-	 	<a href="{{page.next.url}}" class="next">next &raquo;</a>
+	 	<a href="{{page.next.url}}" class="next"><span aria-hidden="true" class="icon-ARROWR"></span></a>
 	  	{% endif %}
 		</nav>
 
-
-	<a href="/blog" class="read-more">Read all posts</a>
-
+		<div class="read-more">
+			<a href="/blog">Read all posts</a>
+		</div>
 </section>
