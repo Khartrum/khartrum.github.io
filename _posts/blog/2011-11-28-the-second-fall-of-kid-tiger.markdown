@@ -2,6 +2,8 @@
 layout: post
 title: THE SECOND FALL OF KID TIGER
 published: true
+categories:
+  - blog
 ---
 ![](/media/af1ccd1418e311e1a87612313804ec91_7.jpg)
 

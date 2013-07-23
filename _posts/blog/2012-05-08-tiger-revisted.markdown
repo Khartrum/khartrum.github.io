@@ -2,6 +2,8 @@
 layout: post
 title: Tiger Revisited
 published: true
+categories:
+  - blog
 ---
 After many months and a new とら, TKO has resumed shooting the adventures of Kid Tiger. Due to a series of mishaps, we lost the original actor (may you fly truly, Dan Herbertson) to the gentlemanly nation of Australia. Paul Butler (a dear friend and fellow Carolinian) has been kind enough to take up the mask for one more shot at the prize. Below are a couple pictures from shooting on 5/3/2012. Sweet tiger dreams...
 

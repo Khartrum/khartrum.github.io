@@ -2,6 +2,8 @@
 layout: post
 title: 'Beach Fiction #2'
 published: true
+categories:
+  - blog
 ---
 
 ![](/media/childhood-beach.png) *Childhood Beach*

@@ -2,6 +2,8 @@
 layout: post
 title: New Tokyo Based Art/ Literary website Promises to be Cool
 published: true
+categories:
+  - blog
 ---
 ![](/media/tyo1.jpg)
 

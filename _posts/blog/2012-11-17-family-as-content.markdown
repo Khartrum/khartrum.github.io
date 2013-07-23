@@ -2,6 +2,8 @@
 layout: post
 title: FAMILY AS CONTENT
 published: true
+categories:
+  - blog
 ---
 
 ![](/media/family.jpg)

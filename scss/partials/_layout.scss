@@ -4,7 +4,7 @@ header.home {
 }
 
 .logo {
-	background-image: url("/resources/KH2whitealt@2x.png");
+	background-image: url("/khartrum/resources/KH2whitealt@2x.png");
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	background-size: contain;
@@ -16,7 +16,7 @@ header.home {
   	color: transparent;
 	
 	@media (min-width: $desktop) {
-		background-image: url("/resources/KH2@2x.png");
+		background-image: url("/khartrum/resources/KH2@2x.png");
 		height: 400px;
 	}
 }
@@ -148,10 +148,10 @@ header.home {
 
 .post-list{
 	section {
-		border-bottom: 1px solid $light;
+		border-top: 1px solid $light;
 		padding: 1em 0 2em 0;
 	}
-	section:first-child {padding-top: 0;}
+	section:first-child {padding-top: 0; border: none;}
 }
 
 .info { border-bottom: 1px solid $light; padding-bottom: 2em;}

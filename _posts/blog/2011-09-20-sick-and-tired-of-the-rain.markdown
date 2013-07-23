@@ -5,8 +5,8 @@ tags: []
 status: draft
 type: post
 published: false
-meta:
-  _edit_last: '1'
+categories:
+  - blog
 ---
 <div>This story was written prior to DREAM 14</div>
 <div>Monday/May 24th/2010</div>

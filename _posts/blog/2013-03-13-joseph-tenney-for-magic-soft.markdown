@@ -2,6 +2,8 @@
 layout: post
 title: Joseph Tenney for MAGIC SOFT
 published: true
+categories:
+  - blog
 ---
 
 ![](/media/MagicSoftpicture.jpg) 

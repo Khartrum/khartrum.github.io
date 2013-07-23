@@ -2,6 +2,8 @@
 layout: post
 title: SLEEPING BEAUTIES Continued
 published: true
+categories:
+  - blog
 ---
 
 ![](/media/cuddle.jpg)

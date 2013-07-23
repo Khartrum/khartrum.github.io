@@ -2,6 +2,8 @@
 layout: post
 title: HOLY GASH!
 published: true
+categories:
+  - blog
 ---
 &nbsp;
 

@@ -2,6 +2,8 @@
 title: TYO MAG #3
 layout: post
 published: true
+categories:
+  - blog
 ---
 
 <p class="center">III</p>

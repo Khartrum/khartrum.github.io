@@ -21,7 +21,7 @@ layout: default
 	 	<a href="{{page.previous.url}}" class="previous"><span aria-hidden="true" class="icon-ARROWL"></span></a>
 	 	{% endif %}
 
-	 	{% if page.next.url %}
+	 	{% if page.next.categories == page.categories %}
 	 	<a href="{{page.next.url}}" class="next"><span aria-hidden="true" class="icon-ARROWR"></span></a>
 	  	{% endif %}
 		</nav>

@@ -2,6 +2,8 @@
 layout: post
 title: CAROLINA IN THE SPRING AND SO WAS THE GIRL
 published: true
+categories:
+  - blog
 ---
 
 ![](/media/Kportrait.jpg)

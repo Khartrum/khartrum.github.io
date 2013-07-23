@@ -2,6 +2,8 @@
 layout: post
 title: Favorite Films Of 2012
 published: true
+categories:
+  - blog
 ---
 
 ![](/media/Phoenix1.jpg)

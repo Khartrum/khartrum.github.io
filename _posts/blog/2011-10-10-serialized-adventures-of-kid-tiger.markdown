@@ -2,6 +2,8 @@
 layout: post
 title: SERIALIZED ADVENTURES OF KID TIGER
 published: true
+categories:
+  - blog
 ---
 
 Part 1

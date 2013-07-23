@@ -2,6 +2,8 @@
 layout: post
 title: TYOmag's Second Issue
 published: true
+categories:
+  - blog
 ---
 ![](/media/TYO2.png)
 

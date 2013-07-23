@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Tanka Poem by Hiroshi Homura 穂村弘
-tags: []
-status: publish
-type: post
 published: true
-meta:
-  _edit_last: '1'
+categories:
+  - blog
 ---
 ![](/media/by_edouard_boubat.jpg)
 

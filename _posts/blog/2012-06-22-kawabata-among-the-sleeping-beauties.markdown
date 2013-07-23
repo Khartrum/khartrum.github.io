@@ -2,6 +2,8 @@
 layout: post
 title: Kawabata Among The Sleeping Beauties
 published: true
+categories:
+  - blog
 ---
 
 ![](/media/1929_portrait_showa41.jpg)

@@ -2,6 +2,8 @@
 layout: post
 title: Sketches of a recent beach...
 published: true
+categories:
+  - blog
 ---
 
 ![](/media/rocky-and-apollo-021.jpg)

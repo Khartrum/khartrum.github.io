@@ -1,12 +1,9 @@
 ---
 layout: post
 title: FRENCH WHORES + MASSAGE GIRLS IN LONG JACKETS
-tags: []
-status: publish
-type: post
 published: true
-meta:
-  _edit_last: '1'
+categories:
+  - blog
 ---
 
 **1**
