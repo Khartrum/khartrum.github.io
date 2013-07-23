@@ -5,7 +5,7 @@ html {
 }
 
 body {
-	background-color: $dark;
+	background-color: white;
 	color: $text;
 	font-family: $fontstack;
 	font-size: 120%;
@@ -87,19 +87,19 @@ p {line-height: 1.58}
 .post {
 	header {text-align: center;}
 	.title {
-		font-size: 1.5em;
-		font-style: italic;
+		font-size: 1.3em;
 		font-weight: normal;
 		margin: 0;
 		padding-top: .7em;
 		@media (min-width: $desktop){font-size: 1.5em;}
 			a { 
-			color: $text;
+			text-transform:capitalize
 			&:hover{text-decoration: none;}
 		}
 	}
 	.date {
 		color: $light;
+		font-style: italic;
 		text-align: center;
 	}
 }

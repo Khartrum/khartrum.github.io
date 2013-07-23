@@ -16,11 +16,12 @@ layout: default
     </header>
       
       <div class="post-body desk">
+      
         {% assign short_post = post.content | truncatewords: 70 %}
         {% assign short_post_length = short_post | size %}
         {% assign full_post_length = post.content | size %}
 
-        {{ short_post }}
+        {{ short_post | remove: '<em>' | remove: '</em>' | remove: '<strong>' | remove: '</strong>' }}
         
         {% if short_post_length < full_post_length %}
         <a href="{{ post.url }}"> Read More &raquo;</a>

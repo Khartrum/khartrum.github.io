@@ -6,11 +6,11 @@ categories:
   - blog
 ---
 
-![](/media/Phoenix1.jpg)
+!["The Master"](/media/Phoenix1.jpg)
 
-Anybody will do for you. Not for me. I must have <em>somebody, </em>and with the Oscars (silly as they may be) just hours away, paired with the time-honored tradition of self-indulgence, I've decided to put forth a list of my favorite films of 2012. Better late than never. God bless cinema and all her pretty whores.
+Anybody will do for you. Not for me. I must have *somebody,* and with the Oscars (silly as they may be) just hours away, paired with the time-honored tradition of self-indulgence, I've decided to put forth a list of my favorite films of 2012. Better late than never. God bless cinema and all her pretty whores.
 
-<strong>The Top Ten</strong>
+**The Top Ten**
 
 10. <a href="http://www.imdb.com/title/tt2112293/?ref_=sr_1">THE COMEDY</a>
  This number 10 spot was difficult, but Rick Alverson’s <em>The Comedy</em> was a movie that worked for me because of its unusual dissection of human interaction. Tim Heidecker was surprisingly good in a dramatic role. Brooklyn bullshit. Unnerving scenes of uncomfortable ironic conversation and loads of comedians. I can see why some of my contemporaries found it annoying, but the very intentional discomfort was intended and I loved it.
@@ -44,7 +44,7 @@ Anybody will do for you. Not for me. I must have <em>somebody, </em>and with the
 1. <a href="http://www.imdb.com/title/tt1560747/?ref_=fn_al_tt_1">THE MASTER</a>
  Regardless of what the majority of audiences are willing to admit, The Master is a truly unique illustration of a very particular sort of American discontentment and the best film of 2012. The lead performance by Joaquin Phoenix is heartbreaking and a feat that is easily on par with any performance this year. With cinematography from Mihai Malaimare in astonishing 65mm, a fitting soundtrack by Radiohead's ever-impressive Jonny Greenwood and a chiseled vision by director Paul Thomas Anderson, The Master is a noteworthy followup to 2010's There Will Be Blood. Master was the only film of 2012 that I wanted to watch again immediately after it finished. Strange, ambiguous long shots of motorcycle rides in the desert, spiking our cocktails with paint thinner, hazy memories of masturbating into the sea. The Master is the great American Film.
 
-<strong>Honorable Mentions</strong>
+**Honorable Mentions**
 
 1). <a href="http://www.imdb.com/title/tt2125435/?ref_=sr_1">Beasts of The Southern Wild</a> - Magically real epic on the bayou.
 
@@ -56,19 +56,19 @@ Anybody will do for you. Not for me. I must have <em>somebody, </em>and with the
 
 5). <a href="http://www.imdb.com/title/tt1734548/?ref_=sr_6">The Color Wheel</a> - Annoying as it was cool. This Clerks-esque indie is worth the watch.
 
-<strong>Favorite Actor in a Lead Role:</strong>
+**Favorite Actor in a Lead Role:**
  Joaquin Phoenix for The Master
 
-<strong><strong>Favorite</strong> Actor in a Supporting Role</strong>:
+**Favorite Actor in a Supporting Role:**
  Philip Seymour Hoffman for The Master
 
-<strong><strong>Favorite</strong> Female Actor in a Lead Role</strong>:
+**Favorite Female Actor in a Lead Role:**
  Emmanuel Riva for Amour
 
-<strong><strong>Favorite</strong> Female Actor in a Supporting Role:</strong>
+**Favorite Female Actor in a Supporting Role:**
  Anne Hathaway for Les Miserables
 
-<strong><strong>Favorite</strong> Sunday Afternoon Films</strong> (Very Fun but far from great. Perfect for a hangover.)
+**Favorite Sunday Afternoon Films** (Very Fun but far from great. Perfect for a hangover.)
 
  The Dark Knight Rises
 
@@ -78,7 +78,7 @@ Anybody will do for you. Not for me. I must have <em>somebody, </em>and with the
 
 Argo
 
-<strong><strong>Favorite</strong> Comedies</strong>
+**Favorite Comedies**
 
 <a href="http://www.imdb.com/title/tt2077851/">Sleepwalk with Me</a>
 
@@ -92,7 +92,7 @@ Argo
 
  Tim and Eric's Billion Dollar Movie
 
-<strong>Overrated</strong>
+**Overrated**
 
  Zero Dark Thirty (Very well done, but I had no interest in it.)
 
@@ -102,7 +102,7 @@ Argo
 
 Les Miserables (Overrated, but the music and vocal performances are amazing)
 
-<strong>Publicly Notable Films I Failed To See</strong>
+**Publicly Notable Films I Failed To See**
 
  Lincoln
 

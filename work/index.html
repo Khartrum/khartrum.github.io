@@ -3,24 +3,19 @@ layout: default
 ---
 
 <h1 class="page-title">Work</h1>
-  <div class="post-list wrapped readability">
-
+  <div class="mobile-wrapped readability">
+  <ul>
   {% for post in site.categories.work %}
 
-  <section class="post-container-2">
+    <li><a href="{{post.url}}">{{post.title}}</a>
+    <br><span>{{post.genre}}</span>
+    {% if post.domain %}
+    <span class="domain">{{post.domain}}</span>
+    {% else %}
+    <span class="domain">{{post.link | remove: 'http://' | split: '/' | first}}</span>
+    {% endif %}
+    </li>
 
-    <article class="readability post mobile-wrapped wrapped">
-    <header>
-      <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    </header>
-      
-
-        {{ post.content }}
-        
-
-  </article>
-
-  </section>
   {% endfor %}
-
+  </ul>
 </div>

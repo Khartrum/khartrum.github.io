@@ -1,10 +1,11 @@
 header.home {
+	background: $dark;
 	@media (min-width: 400px) {padding-top: 2em;}
-	@media (min-width: $desktop) {padding-bottom: 3em;}
+	@media (min-width: $desktop) {background: white; padding-bottom: 3em;}
 }
 
 .logo {
-	background-image: url("/khartrum/resources/KH2whitealt@2x.png");
+	background-image: url("/resources/KH2whitealt@2x.png");
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	background-size: contain;
@@ -16,7 +17,7 @@ header.home {
   	color: transparent;
 	
 	@media (min-width: $desktop) {
-		background-image: url("/khartrum/resources/KH2@2x.png");
+		background-image: url("/resources/KH2@2x.png");
 		height: 400px;
 	}
 }
@@ -24,20 +25,22 @@ header.home {
 .interior-header {
 }
 
-.logo-container {
-	padding: .7em 0;
-	max-width: 6em;
-}
-
-.interior-logo {
-	@extend .logo;
-	background-image: url("/resources/KH2whitealt.png");
-	height: 60px;
-}
-
 .interior-nav {
 	background: $dark;
-	.menu {display: block; text-align: right;}
+	border-bottom: 2px solid $dark;
+	padding-bottom: .2em;
+	padding-top: .5em;
+	text-align: center;
+	img {position: relative; width: 4em;}
+	a {display: inline-block;}
+	.menu {
+		color: white;
+		font-style: italic;
+		padding: .4em;
+		position: absolute;
+		right: .3em;
+		top: .75em;
+	}
 }
 
 .selected-writing{
@@ -147,16 +150,21 @@ header.home {
 }
 
 .post-list{
+	padding-top: 1em;
 	section {
 		border-top: 1px solid $light;
 		padding: 1em 0 2em 0;
 	}
-	section:first-child {padding-top: 0; border: none;}
+	section:first-child {border-top: 1px solid $light;
+	@media (min-width:$desktop) {border-top: none;}
+	}
 }
 
 .info { border-bottom: 1px solid $light; padding-bottom: 2em;}
 
-.form {margin: 0 auto; max-width: 85%; padding: 1em 0;}
+.form {margin: 0 auto; padding: 1em 0; 
+	@media (min-width: $desktop) {max-width: 85%;}
+}
 
 .footer-site {
 	background: $dark;
@@ -178,24 +186,23 @@ header.home {
 }
 
 .int-mobile-nav {
-	position: absolute;
-	right: 0;
-	top: .4em;
+	text-align: center;
 	.menu {
 		color: white;
-		font-size: 1.3em;
+		font-size: 1.1em;
 		font-style: italic; 
-		padding: .7em;
+		padding: .4em;
 	}
 }
 
 .int-nav-menu {
+	background: $dark;
 	display: none;
 	list-style: none;
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	li { font-size: 1.2em; border-top: 3px solid white;}
+	li { font-size: 1.2em; border-top: 2px solid white;}
 	a{color: white; display: block; padding: .7em 0;
 		&:active {background: white; color: $dark;}
 		&:hover {text-decoration: none;}
