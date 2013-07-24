@@ -23,15 +23,22 @@ header.home {
 }
 
 .interior-header {
+	border-bottom: .2em solid $dark;
+	border-top: .2em solid $dark;
+
 }
 
 .interior-nav {
 	background: $dark;
-	border-bottom: 2px solid $dark;
-	padding-bottom: .2em;
-	padding-top: .5em;
+	padding: .5em 0 .4em 0;
 	text-align: center;
-	img {position: relative; width: 4em;}
+	@media (min-width: $desktop) {
+		background: none;
+	}
+	img {
+		position: relative; width: 4em;
+		@media (min-width: $desktop) {width: 5em;}
+	}
 	a {display: inline-block;}
 	.menu {
 		color: white;
@@ -95,7 +102,7 @@ header.home {
 	color: #E9E9E9;
 	font-style: italic;
 	padding: 2em 0;
-	@media (min-width: $desktop) {font-size: 1.2em; padding: 4.5em 0;}
+	@media (min-width: $desktop) {font-size: 1.2em; padding: 3.5em 0;}
 }
 
 .blog-home {
@@ -150,25 +157,30 @@ header.home {
 }
 
 .post-list{
-	section {
+	.post-container-2 {
 		border-top: 1px solid $light;
-		padding: 1em 0 2em 0;
+		padding-bottom: 1em;
+		@media (min-width:$desktop) {padding: 1em 0 2em 0;}
 	}
-	section:first-child {border-top: 1px solid $light;
-	@media (min-width:$desktop) {border-top: none;}
+	.post-container-2:first-child {border-top: 1px solid $light;
+	@media (min-width:$desktop) {border-top: none; padding-top: 0;}
 	}
 }
 
 .info { border-bottom: 1px solid $light; padding-bottom: 2em;}
 
-.form {margin: 0 auto; padding: 1em 0; 
-	@media (min-width: $desktop) {max-width: 85%;}
-}
+.form {margin: 0 auto; padding: 1em 0;}
 
 .footer-site {
 	background: $dark;
-	padding-bottom: 2em;
-	@media (min-width: $desktop) { padding-top:1em;}
+}
+
+.footer-home {
+	background: $dark;
+	padding: 3em 0;
+	.footer-nav {
+	border: 0;
+}
 }
 
 .page-title {
@@ -206,4 +218,50 @@ header.home {
 		&:active {background: white; color: $dark;}
 		&:hover {text-decoration: none;}
 	}
+}
+
+.int-desk-menu {
+	margin: 0;
+	text-align: center;
+	width: 50%;
+	li {font-size:1.2em; font-style: italic;}
+	a {color: $dark;}
+}
+
+.nav-cont {
+	position: absolute;
+	top: 1.5em; 
+	margin: 0 auto;
+	width: 100%;
+}
+
+.int-desk-menu-left {
+	@extend .int-desk-menu;
+	li:first-child{padding-right: 15%;}
+}
+
+.int-desk-menu-right {
+	@extend .int-desk-menu;
+	li {padding-left: 15%;}
+	li:first-child{padding-left:0}
+}
+
+.footer-nav {
+	@extend .int-nav-menu;
+	display: inherit;
+	@media (min-width:$desktop) {
+		padding-top: 0;
+		li {border-top:none; padding:0 3%;}
+		a{
+		&:active {background: inherit; color: white;}
+		&:hover {text-decoration: underline;}
+	}
+
+	}
+
+}
+
+.about-2 {
+	@extend .about;
+	padding: 1em 0;
 }

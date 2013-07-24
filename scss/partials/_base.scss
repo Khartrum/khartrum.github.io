@@ -60,6 +60,14 @@ p {line-height: 1.58}
 	@media (min-width: $desktop) {width: 50%;}
 }
 
+.sixty {
+	@media (min-width: $desktop) {width: 60%;}
+}
+
+.forty {
+	@media (min-width: $desktop) {width: 40%;}
+}
+
 .clear {
 	clear: both;
 	overflow: hidden;

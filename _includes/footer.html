@@ -1,10 +1,18 @@
 <footer class="footer-site">
-	<nav id="page-nav">
-		<ul class="page-nav">
-			<li class="menu-button"><a href="/">Home</a></li>
-			<li class="menu-button"><a href="/blog">Blog</a></li>
-			<li class="menu-button"><a href="/work">Writing & Projects</a></li>
-			<li class="menu-button"><a href="/contact">Contact</a></li>
-		</ul>
-	</nav>
+		<section class="readability about-2 mobile-wrapped" id="about">
+			{% for post in site.categories.about %}
+			{% if post.official == true %}
+			{{ post.content }}
+			{% endif %}
+			{% endfor %}
+		</section>
+
+		<nav class="center">
+			<ul class="footer-nav inline-list">
+				<li><a href="/">Home</a></li>
+				<li><a href="/blog">Blog</a></li>
+				<li><a href="/work">Writing & Projects</a></li>
+				<li><a href="/contact">Contact</a></li>
+			</ul>
+		</nav>
 </footer>

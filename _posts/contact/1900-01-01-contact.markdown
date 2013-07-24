@@ -1,0 +1,10 @@
+---
+layout: default
+title: Contact Kris
+published: true
+official: true
+categories:
+  - contact
+---
+
+This is the copy for the contact form. Change it.

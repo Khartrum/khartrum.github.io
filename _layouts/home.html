@@ -32,11 +32,14 @@ layout: base
 </header>
 
 <section class="about desk">
-	<div class="wrapped">
 	<p class="readability">
-		{{content}} <a href="/contact">Contact Kris</a>.
+	{% for post in site.categories.about %}
+		{% if post.official == true %}
+			{{ post.content | strip_html }}
+			<a href="/contact"> Contact Kris</a>.
+		{% endif %}
+	{% endfor %}
 	</p>
-	</div>
 </section>
 
 <section class="post-container blog-home">
@@ -88,17 +91,21 @@ layout: base
 <section class="about mobile">
 	<div class="mobile-wrapped">
 	<p class="readability">
-		{{content}}
+	{% for post in site.categories.about %}
+		{% if post.official == true %}
+			{{ post.content }}
+		{% endif %}
+	{% endfor %}
 	</p>
 	</div>
 </section>
 
-<footer class="footer-site desk">
-	<nav>
-		<ul class="inline-list">
-			<li><a href="/blog">Blog</a></li>
-			<li><a href="/work">Writing & Projects</a></li>
-			<li><a href="/contact">Contact</a></li>
-		</ul>
-	</nav>
+<footer class="footer-home desk">
+		<nav class="center">
+			<ul class="footer-nav inline-list">
+				<li><a href="/blog">Blog</a></li>
+				<li><a href="/work">Writing & Projects</a></li>
+				<li><a href="/contact">Contact</a></li>
+			</ul>
+		</nav>
 </footer>
