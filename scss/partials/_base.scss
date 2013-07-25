@@ -48,7 +48,12 @@ p {line-height: 1.58}
 
 .wrapped {
 	margin: 0 auto;
-	max-width: 55em;
+	max-width: 50em;
+}
+
+.wrapped-2 {
+	@extend .wrapped;
+	max-width: 40em;
 }
 
 .mobile-wrapped {
@@ -113,7 +118,7 @@ p {line-height: 1.58}
 }
 
 .interior-body {
-	padding-bottom: 1em;
+	padding-bottom: 4em;
 }
 
 .alt-bg {background: white;}

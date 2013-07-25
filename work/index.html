@@ -3,19 +3,37 @@ layout: default
 ---
 
 <h1 class="page-title">Work</h1>
-  <div class="mobile-wrapped readability">
-  <ul>
-  {% for post in site.categories.work %}
 
-    <li><a href="{{post.url}}">{{post.title}}</a>
-    <br><span>{{post.genre}}</span>
-    {% if post.domain %}
-    <span class="domain">{{post.domain}}</span>
-    {% else %}
-    <span class="domain">{{post.link | remove: 'http://' | split: '/' | first}}</span>
-    {% endif %}
-    </li>
+<div class="wrapped-2 clear">
+<section class="half float-left work center">
+      
+      <div class="mobile-wrapped">
+      <h2>Writing</h2>
+      <ul>
+        {% for post in site.categories.work %}
+        {% if post.type == 'writing' %}
+        <li>
+          <a href="{{post.url}}">{{post.title}}</a><br><span>{{post.genre}}</span>{% if post.domain %}<span class="domain">{{post.domain}}</span>{% else %}<span class="domain">{{post.link | remove: 'http://' | split: '/' | first}}</span>{% endif %}
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+      </div>
+</section>
 
-  {% endfor %}
-  </ul>
+<section class="half float-right work center">
+    <div class="mobile-wrapped">
+        <h2>Projects</h2>
+        <ul>
+        {% for post in site.categories.work %}
+        {% if post.type == 'projects' %}
+            <li>
+                <a href="{{post.url}}">{{post.title}}</a><br><span>{{post.genre}}</span>{% if post.domain %}<span class="domain">{{post.domain}}</span>{% else %}<span class="domain">{{post.link | remove: 'http://' | split: '/' | first}}</span>{% endif %}
+            </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+</section>
+
 </div>
