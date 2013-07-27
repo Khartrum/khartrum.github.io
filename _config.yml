@@ -82,3 +82,10 @@ prose:
           element: "text"
           label: "Link to Work"
           value: "http://"
+      - name: "domain"
+        field:
+          element: "text"
+          label: "domain"
+          value: ""
+          placeholder: "If the article is no longer online use: \'example.com\'"
+
