@@ -15,3 +15,19 @@ prose:
   media: "media"
   rooturl: "_posts"
   siteurl: "https://www.krishartrum.com/"
+  metadata:
+    _posts/about:
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: 
+            - "about"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+      - name: "official"
+        field: 
+          element: "checkbox"
+          label: "Official About Info"
+          value: "false"
