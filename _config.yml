@@ -77,3 +77,8 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "link"
+        field:
+          element: "text"
+          label: "Link to Work"
+          value: "http://"
