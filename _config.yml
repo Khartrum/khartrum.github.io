@@ -13,7 +13,6 @@ exclude:
   - scss
 prose:
   media: "media"
-  rooturl: "_posts"
   siteurl: "https://www.krishartrum.com/"
   metadata:
     _posts/about:
