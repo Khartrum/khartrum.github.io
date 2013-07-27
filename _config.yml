@@ -54,7 +54,7 @@ prose:
             - "contact"
       - name: "title"
         field:
-          element:"text"
+          element: "text"
           label: "Title"
           value: "Contact Kris"
       - name: "layout"
