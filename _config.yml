@@ -88,15 +88,6 @@ prose:
           label: "domain"
           value: ""
           placeholder: "If the article is no longer online use: \'example.com\'"
-      - name: "type"
-        field:
-          element: "select"
-          label: "Writing or Project"
-          options:
-            - name: "Writing"
-              value: "writing"
-            - name: "Project"
-              value: "project"
       - name: "genre"
         field:
           element: "text"
@@ -118,4 +109,3 @@ prose:
           element: "checkbox"
           label: "Selected"
           value: "false"
-
