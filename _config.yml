@@ -88,34 +88,3 @@ prose:
           label: "domain"
           value: ""
           placeholder: "If the article is no longer online use: example.com"
-      - name: "type"
-        field:
-          element: "select"
-          label: "Writing or Project"
-          options:
-            - name: "Writing"
-              value: "writing"
-            - name: "Project"
-              value: "project"
-      - name: "genre"
-        field:
-          element: "text"
-          label: "Genre"
-          value: ""
-          placeholder: "fiction, review, article, etc."
-      - name: "description"
-        field:
-          element: "textarea"
-          label: "Description"
-          value: ""
-          placeholder: "Description of the project or writing."
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "work"
-      - name: "selected"
-        field: 
-          element: "checkbox"
-          label: "Selected"
-          value: "false"
-
