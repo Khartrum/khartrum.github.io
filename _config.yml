@@ -11,3 +11,7 @@ exclude:
   - .gitignore
   - .sass-cache
   - scss
+prose:
+  media: "media"
+  rooturl: "_posts"
+  siteurl: "https://www.krishartrum.com/"
