@@ -85,9 +85,8 @@ prose:
       - name: "domain"
         field:
           element: "text"
-          label: "domain"
+          label: "Optional Domain (example.com)"
           value: ""
-          placeholder: "If the article is no longer online use: \'example.com\'"
       - name: "type"
         field:
           element: "select"
@@ -102,13 +101,11 @@ prose:
           element: "text"
           label: "Genre"
           value: ""
-          placeholder: "fiction, review, article, etc."
       - name: "description"
         field:
           element: "textarea"
           label: "Description"
           value: ""
-          placeholder: "Description of the project or writing."
       - name: "layout"
         field:
           element: "hidden"
