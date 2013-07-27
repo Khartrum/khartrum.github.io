@@ -46,3 +46,24 @@ prose:
         field:
           element: "hidden"
           value: "post"
+    _posts/contact:
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: 
+            - "contact"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: "Contact Kris"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+      - name: "official"
+        field: 
+          element: "checkbox"
+          label: "Official Contact Info"
+          value: "false"
+
