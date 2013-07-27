@@ -1,12 +1,13 @@
 ---
-layout: work
-title: "Films so Far: 2013"
-link: http://culturehome.com/blog/entry/cinema-so-far-4-movies-to-watch-in-2013/
+layout: default
+title: "Steel"
+link: 
 genre: review, film
 domain: 
 type: writing
 published: true
 selected: false
+description: 
 categories:
   - work
 ---

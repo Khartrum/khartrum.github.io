@@ -28,7 +28,7 @@ header.home {
 }
 
 .interior-header {
-
+	background: $dark;
 }
 
 .interior-nav {
@@ -55,6 +55,7 @@ header.home {
 
 .work{
 	background: white;
+	text-align: center;
 
 	h2 {
 		display: inline-block;
@@ -87,7 +88,7 @@ header.home {
 }
 
 .selected-writing {
-	@media (min-width: $desktop) {padding-left: 7%; margin-top: 0;}
+	@media (min-width: $desktop) {padding-left: 7%; margin-top: 0; text-align: left;}
 
 }
 
@@ -234,7 +235,7 @@ header.home {
 	top: -3em;
 	width: 40%;
 	li {font-size:1em; }
-	a {color: $dark;}
+	a {color: white;}
 }
 
 .nav-cont {
