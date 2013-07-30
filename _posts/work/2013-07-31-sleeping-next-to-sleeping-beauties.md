@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: Sleeping Next To Sleeping Beauties
 link: "http://"
 type: writing
