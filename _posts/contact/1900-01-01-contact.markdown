@@ -1,10 +1,10 @@
 ---
 layout: default
+categories: 
+  - contact
 title: Contact Kris
 published: true
 official: true
-categories:
-  - contact
 ---
 
-This is the copy for the contact form. Change it.
+If you wish to contact me in order to solicit work, please use the following form.
