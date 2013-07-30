@@ -7,4 +7,4 @@ published: true
 official: true
 ---
 
-If you wish to contact me in order to solicit work, please use the following form.
+If you have a question or wish to contact me in order to solicit work, please use the following form.
