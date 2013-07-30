@@ -1,15 +1,17 @@
 ---
 layout: default
-title: "Steel"
+categories: 
+  - work
+title: Review of House of Sleeping Beauties
 link: 
-genre: review, film
-domain: 
+  - null
+  - "http://"
+genre: "review, film"
+domain: null
 type: writing
 published: true
 selected: false
-description: 
-categories:
-  - work
+description: null
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, maiores, delectus, placeat nesciunt iure nihil praesentium doloribus voluptatem iste atque perferendis dolorem porro dolorum quos ducimus corrupti consectetur sunt fuga.
+Novella, Film, Massage parlors.[http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/](http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/)
