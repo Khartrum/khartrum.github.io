@@ -14,4 +14,4 @@ selected: false
 description: null
 ---
 
-Novella, Film, Massage parlors.[http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/](http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/)
+Novella, Film, Massage parlors.
