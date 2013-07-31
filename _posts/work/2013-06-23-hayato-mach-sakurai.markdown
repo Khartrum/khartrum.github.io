@@ -7,7 +7,7 @@ link: "http://bastardsoftheinfinite.com/khartrum/wp-content/uploads/2011/09/Sick
 genre: article
 domain: null
 type: writing
-published: true
+published: false
 selected: true
 description: null
 ---
