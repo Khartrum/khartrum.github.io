@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: Top Ten Films of 2012
 link: "http://www.screensyndrome.com/top-10-films-from-2012-personal-picks/"
 type: writing
