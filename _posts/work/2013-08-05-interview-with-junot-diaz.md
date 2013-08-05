@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: Interview With Junot Diaz
 link: "http://tyoindex.com/2013/02/conversations-with-people-we-like-6-junot-diaz/"
 type: writing
