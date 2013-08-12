@@ -1,9 +1,9 @@
 ---
 layout: post
-title: FAMILY AS CONTENT
-published: true
-categories:
+categories: 
   - blog
+title: FAMILY AS CONTENT
+published: false
 ---
 
 ![](/media/family.jpg)
