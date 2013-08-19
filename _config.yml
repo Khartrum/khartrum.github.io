@@ -101,11 +101,6 @@ prose:
           element: "text"
           label: "Genre"
           value: ""
-      - name: "description"
-        field:
-          element: "textarea"
-          label: "Description"
-          value: ""
       - name: "layout"
         field:
           element: "hidden"
