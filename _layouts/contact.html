@@ -6,13 +6,13 @@ layout: default
 	</h1>
 
 	<div class="mobile-wrapped wrapped readability">
-		<p class="info">
+		<div class="info">
 		{% for post in site.categories.contact %}
 		{% if post.official == true %}
 		{{ post.content }}
 		{% endif %}
 		{% endfor %}
-		</p>
+		</div>
 		<div class="form">
 		{% include contactform.html %}
 		</div>

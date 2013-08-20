@@ -175,7 +175,11 @@ header.home {
 	}
 }
 
-.info { border-bottom: 1px solid $light; padding-bottom: 2em;}
+.info { 
+	border-bottom: 1px solid $light; padding-bottom: 1em;
+	p{margin: 0;}
+	img{padding: 1em 0;}
+}
 
 .form {margin: 0 auto; padding: 1em 0;}
 
