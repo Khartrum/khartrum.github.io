@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: Bastards Of The Infinite
 link: "http://bastardsoftheinfinite.com/"
 type: project
