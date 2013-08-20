@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: Improving Your Japanese in Tokyo
 link: "http://learnjapanese.com/improving-your-japanese-skills-in-tokyo/"
 type: writing
