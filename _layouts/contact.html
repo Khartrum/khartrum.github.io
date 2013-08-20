@@ -9,7 +9,7 @@ layout: default
 		<p class="info">
 		{% for post in site.categories.contact %}
 		{% if post.official == true %}
-		{{ post.content | strip_html }}
+		{{ post.content }}
 		{% endif %}
 		{% endfor %}
 		</p>
