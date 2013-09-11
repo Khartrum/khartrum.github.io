@@ -2,7 +2,7 @@
 layout: post
 categories: 
   - blog
-published: false
+published: true
 title: I Interviewed Artist Shi Shi Yamazaki for TYO
 ---
 
