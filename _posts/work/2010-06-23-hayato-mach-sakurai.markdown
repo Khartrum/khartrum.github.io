@@ -8,7 +8,7 @@ genre: article
 domain: null
 type: writing
 published: true
-selected: true
+selected: false
 description: null
 ---
 
