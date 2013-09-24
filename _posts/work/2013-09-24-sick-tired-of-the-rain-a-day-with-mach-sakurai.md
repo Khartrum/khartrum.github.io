@@ -2,12 +2,12 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: "Sick & Tired Of The Rain: A Day With MACH Sakurai"
 link: "http://www.asianmma.com/?p=7471"
 type: writing
 selected: true
-genre: Portrait
+genre: Portrait of a prize fighter
 ---
 
 [http://www.asianmma.com/?p=7471](http://www.asianmma.com/?p=7471)## A New Post
