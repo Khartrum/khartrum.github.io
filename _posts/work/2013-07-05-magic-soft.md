@@ -6,7 +6,7 @@ published: true
 title: Magic Soft
 link: "http://tyomag.com/issue-02/hartrum"
 type: writing
-selected: true
+selected: false
 description: null
 genre: Fiction
 ---
