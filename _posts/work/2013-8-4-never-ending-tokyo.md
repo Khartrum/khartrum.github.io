@@ -7,7 +7,8 @@ title: Never Ending Tokyo
 link: "http://culturehome.com/blog/entry/never-ending-tokyo-destinations-for-the-first-time-traveler/"
 type: writing
 selected: true
-domain: Travel
+domain: ""
+genre: Travel
 ---
 
 [Never Ending Tokyo: Destinations for the First Time Traveler](http://culturehome.com/blog/entry/never-ending-tokyo-destinations-for-the-first-time-traveler/)
