@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: Never Ending Tokyo
 link: "http://"
 type: writing
