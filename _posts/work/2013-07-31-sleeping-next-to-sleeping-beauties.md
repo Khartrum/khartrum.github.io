@@ -9,7 +9,7 @@ type: writing
 selected: true
 description: null
 genre: Review
-domain: tyoindex
+domain: tyoindex.com
 ---
 
 Novella, Film, Massage Parlors[http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties](http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties)
