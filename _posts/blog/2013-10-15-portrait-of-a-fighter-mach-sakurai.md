@@ -2,7 +2,7 @@
 layout: post
 categories: 
   - blog
-published: false
+published: true
 title: "Portrait of a fighter: MACH Sakurai"
 ---
 
