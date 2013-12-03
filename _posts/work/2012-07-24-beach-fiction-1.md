@@ -7,7 +7,7 @@ title: "Beach Fiction #1"
 link: "http://krishartrum.com/blog/297/"
 type: writing
 selected: false
-domain: Old Blog
+domain: Matador Sequential Presents
 genre: Fiction
 ---
 
