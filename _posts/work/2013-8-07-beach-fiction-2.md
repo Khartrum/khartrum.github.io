@@ -3,7 +3,7 @@ layout: work
 categories: 
   - work
 published: true
-title: "Beach Fiction #2"
+title: "The Skinny Girl, Shonan And You Can Take New York"
 link: "http://tyomag.com/issue-01/excerpt-from-big-time/"
 type: writing
 selected: false
