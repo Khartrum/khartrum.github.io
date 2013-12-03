@@ -2,7 +2,7 @@
 layout: post
 categories: 
   - blog
-published: false
+published: true
 title: An Essay on Using Family as Fiction.
 ---
 
