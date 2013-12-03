@@ -7,7 +7,7 @@ title: "Beach Fiction #2"
 link: "http://tyomag.com/issue-01/excerpt-from-big-time/"
 type: writing
 selected: false
-domain: TYO Mag
+domain: tyomag.com
 genre: Fiction
 ---
 
