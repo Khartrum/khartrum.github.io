@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: "Beach Fiction #2"
 link: "http://"
 type: writing
