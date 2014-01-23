@@ -1,0 +1,14 @@
+---
+layout: default
+---
+  <h1 class="page-title">
+    {{page.title}}
+  </h1>
+
+  <div class="mobile-wrapped wrapped readability">
+    {% for post in site.categories.resume %}
+    {% if post.official == true %}
+    {{ post.content }}
+    {% endif %}
+    {% endfor %}
+  </div>
