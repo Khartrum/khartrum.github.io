@@ -8,8 +8,8 @@ link: "http://bastardsoftheinfinite.com/"
 type: project
 selected: false
 genre: Web Comics
+domain: "http://bastardsoftheinfinite.com/"
 ---
 
 ## Bastards Of The Infinite
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
