@@ -11,5 +11,5 @@ genre: Web Comics
 domain: "http://bastardsoftheinfinite.com/"
 ---
 
-## Bastards Of The Infinite
+[## Bastards Of The Infinite](http://bastardsoftheinfinite.com/)
 
