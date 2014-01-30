@@ -2,9 +2,9 @@
 layout: work
 categories: 
   - work
-published: true
+published: false
 title: Bastards Of The Infinite
-link: "http://bastardsoftheinfinite.com/"
+link: "http://bastardsoftheinfinite.com"
 type: project
 selected: false
 genre: Web Comics
