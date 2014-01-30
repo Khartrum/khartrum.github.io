@@ -8,8 +8,8 @@ link: "http://bastardsoftheinfinite.com/"
 type: project
 selected: false
 genre: Web Comics
-domain: "http://bastardsoftheinfinite.com/"
+domain: ""
 ---
 
 [## Bastards Of The Infinite](http://bastardsoftheinfinite.com/)
-[Bastards Of The Infinite](http://bastardsoftheinfinite.com/)
+
