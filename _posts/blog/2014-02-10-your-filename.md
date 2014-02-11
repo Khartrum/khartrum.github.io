@@ -151,6 +151,3 @@ I picked it up by the back end of the trap and walked through the living room, p
 I stood there with her for a while until the record finished playing Caroline, No.
 
 We didn’t stay long after that. Moved over to the mainland as soon as she had you. It was a pretty strange thing, I guess. It was just one of those very funny things.
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
