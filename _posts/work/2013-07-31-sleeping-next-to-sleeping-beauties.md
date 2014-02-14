@@ -4,7 +4,7 @@ categories:
   - work
 published: true
 title: Sleeping Next To Sleeping Beauties
-link: "www.tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/"
+link: "http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/"
 type: writing
 selected: false
 description: null
