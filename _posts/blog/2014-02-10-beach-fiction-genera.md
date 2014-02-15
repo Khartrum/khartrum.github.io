@@ -10,7 +10,7 @@ title: "Beach Fiction #3 "
 
 Being a large version of a small thing does it. The big, shiny brown ones that sit on the walls at night and wind up on your face before you wake to smacking yourself as the son of a bitch takes off behind the headboard. Most people have a natural distaste for the fuckers, but Linda was one of those women who lost her head every time she saw anything nasty like that. Of course Florida was the worst place for that sort of thing. Called them palmetto bugs down there, and I learned early in our marriage that she just couldn't take it. That was Linda. She was always like that, and during those island summers there was usually something crawling around in the heat: rattlesnakes, cockroaches, lizards and whatever else. Seemed like they ran the place sometimes. It was always in the back of her mind. Couldn't even breathe if she saw one getting close to her, creeping along the linoleum.
 
-“I truly hate them,” she'd say. “The Devil’s army.” she’d say, her brown eyes full tears.
+“I truly hate them,” she'd say. “The Devil’s army.” she’d say, her brown eyes full of tears.
 
 Of course we’d been married about a year by then. She was pregnant and we didn’t stay too long after you were born because of the size of the place, the rat and some other shit I probably can’t remember. I told Linda it was only temporary. It was a small apartment, but cheap and on Anna Maria Island, which might be my favorite part of Florida. Perfect for young, broke newlyweds. You’ll have to ask her about the exact details and all. I can’t remember the actual date. Had to have been around late 82 or 83.
 
