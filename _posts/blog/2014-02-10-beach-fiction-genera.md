@@ -2,7 +2,7 @@
 layout: post
 categories: 
   - blog
-published: true
+published: false
 title: "Beach Fiction #3 "
 ---
 
@@ -25,14 +25,23 @@ I remember once we had just come back from the doctor's towards the end of the p
 She was always holding her belly in that small, blue dress. The one with the pineapples that her mother brought back from Germany. Don’t know why I remember that dress. It was cut short just above her knees and she looked real pretty in it. Guess she wore it a lot.
 
 “Just getting something,” I said.
+
 “What are you talking about, getting something?”
+
 “Just had to grab something.”
+
 “What was that?” She said, looking over near my feet.
+
 “Nothing, babe. Go inside. I’ll be in in a minute.”
+
 “Cockroach?”
+
 “Yep. Big one,” I said.
+
 “Gross.”
+
 “Don’t worry. I got it.”
+
 “So gross,” she said.
 
 I looked through the grass for the mother who I figured couldn't have been far off. Maybe that’s not how it works. Don’t know, really. Felt bad that it was a baby, though. Damn rattlesnakes. What was I gonna do?
@@ -56,25 +65,41 @@ But anyway, the weather was always nice out there on the island. Never that humi
 Linda was pretty funny sometimes. She used to sit in the backyard on Sunday afternoons and read before she went in to wait tables at The Silver Leaf.
 
 “Honey, come out here and sit with me,” she’d say.
+
 “I’m here. I was out here before you were, babe.”
+
 “But you’re not sitting with me. Sit next to me.”
+
 “I’m right here. I can touch you I’m so close.” I touched her.
+
 “Move closer,” she’d say. And she’d go on and on until I was practically on top of her.
 
 Or I’d come home from work sometimes and find Linda on the floor with Cheyanne in front of the sunset-wall listening to Beach Boys records or that old Frank Sinatra album.
 
 “Have a beer,” she’d say. “Come sit next to me.”
+
 “I need a shower.”
+
 “Where should we go?” She’d ask.
+
 “When?”
+
 “After the baby?” Touching her belly.
+
 “Anywhere you want.”
+
 “I just want him to have fun.”
+
 “Who?”
+
 “The baby.”
+
 “He’ll have plenty of fun.”
+
 “I want him to be really happy though.”
+
 “He will be.”
+
 “I know, but more fun. I want him to have fun than us.”
 
 The evening air was always coming through the screen door and it felt good, and I thought we were pretty damn happy. The place wasn’t so fancy, but at the time it was really something to be young and married and on an island together. Linda said a lot of funny stuff during that first pregnancy. I’m sure she was having fun, though. I think she got nervous because of the baby. That’s normal. She was a very complicated girl. Very pretty, and a little crazy. She said a lot of funny things.
@@ -85,20 +110,35 @@ When the rat showed up it was late in the third trimester. Linda woke me by shak
 I woke to the shaking and heard a scratching noise coming from the closet. Biting or claws on wood.
 
 “Something’s in there,” she said. There’s an animal in there.”
+
 I told her it was Mrs. Nettles digging through her side of the closet, but she knew that was bullshit. Wouldn’t let me sleep until I got up.
+
 “There’s something in here,” she whispered, digging her fingernails into my arm.
+
 “It’s probably just a mouse,” I said.
+
 “Sick. So sick.”
+
 “I’ll get it.”
+
 “I’m going to leave.”
+
 “Relax.”
+
 “I’m leaving here in the morning.”
+
 “Dammit. Just relax. I’ll see what it is.”
+
 I turned on the light and threw open the closet door. I was pretty pissed off at that point.
+
 “Don’t kill it,” she said after a long pause.
+
 “What?”
+
 “Don’t kill it. Just get it out of here.”
+
 “Jesus Christ,” I said and looked into the empty closet, not really looking for anything. Dark shadows folded over shapes. Clothes, cardboard and bullshit. Lots of bullshit.
+
 “I don’t see anything,” I said. “It’s nothing. There’s nothing here.”
 
 The next night I heard it in the kitchen. I thought it must have been something pretty big. Best thing to do was keep it from Linda, of course. Cheyenne didn’t help. Started barking to high heaven one night out of nowhere, the sound of her toenails tapping on the kitchen floor as she ran after the thing. Cheyanne was a big dog. Couldn’t get into cupboards or behind the fridge. Meanwhile, Linda was about to drop the baby on the damn rug. Doctor said it was just about time, and I had this huge rat to worry about. Pain in the ass, to say the least.
@@ -106,16 +146,27 @@ The next night I heard it in the kitchen. I thought it must have been something 
 I finally brought some traps home from the resort. Those big Victor brand traps with the thick gauge wire. I loaded the triggers with peanut butter and put them around the kitchen, and one in the closet. I didn’t want Linda to know about the traps, but I had to make sure she didn’t catch her little hand in one. Those things are mean. Easily snap your fingers off if you’re not careful.
 
 “Will it kill it?”
+
 “Yep.”
+
 “That’s terrible.”
+
 “It’s unhealthy to have it in the house,” I said. “Bad for us. Bad for the baby.”
+
 “It’s still terrible.”
+
 “You won’t even know when it happens. I’ll take care of it.”
+
 “What if she’s pregnant?”
+
 “Who?”
+
 “The rat.”
+
 “You’re nuts.”
+
 “What if it is?”
+
 “Jesus,” I thought. She said it just to mess with my head, I’m guessing.
 
 When it happened we were on the carpet in front of the sofa again. Usual conversations, sea-air coming through the screen door, Pet Sounds spinning on the record player.
