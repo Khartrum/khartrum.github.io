@@ -7,7 +7,7 @@ title: "Beach Fiction #3 "
 ---
 
 ### GENERA
-![](/http://tyoindex.com/wp-content/uploads/2013/01/Boy_2.jpg)
+
 Being a large version of a small thing does it. The big, shiny brown ones that sit on the walls at night and wind up on your face before you wake to smacking yourself as the son of a bitch takes off behind the headboard. Most people have a natural distaste for the fuckers, but Linda was one of those women who lost her head every time she saw anything nasty like that. Of course Florida was the worst place for that sort of thing. Called them palmetto bugs down there, and I learned early in our marriage that she just couldn't take it. That was Linda. She was always like that, and during those island summers there was usually something crawling around in the heat: rattlesnakes, cockroaches, lizards and whatever else. Seemed like they ran the place sometimes. It was always in the back of her mind. Couldn't even breathe if she saw one getting close to her, creeping along the linoleum.
 
 “I truly hate them,” she'd say. “The Devil’s army.” she’d say, her brown eyes full of tears.
