@@ -100,7 +100,7 @@ Or I’d come home from work sometimes and find Linda on the floor with Cheyanne
 
 “He will be.”
 
-“I know, but more fun. I want him to have fun than us.”
+“I know, but more fun. I want him to have more fun than us.”
 
 The evening air was always coming through the screen door and it felt good, and I thought we were pretty damn happy. The place wasn’t so fancy, but at the time it was really something to be young and married and on an island together. Linda said a lot of funny stuff during that first pregnancy. I’m sure she was having fun, though. I think she got nervous because of the baby. That’s normal. She was a very complicated girl. Very pretty, and a little crazy. She said a lot of funny things.
 
