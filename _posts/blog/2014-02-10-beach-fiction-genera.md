@@ -170,6 +170,7 @@ I finally brought some traps home from the resort. Those big Victor brand traps 
 “Jesus,” I thought. She said it just to mess with my head, I’m guessing.
 
 When it happened we were on the carpet in front of the sofa again. Usual conversations, sea-air coming through the screen door, Pet Sounds spinning on the record player.
+
 “You want something to drink?” she asked.
 
 “I’m gonna get a beer here in a second.”
