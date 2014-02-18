@@ -181,7 +181,7 @@ When it happened we were on the carpet in front of the sofa again. Usual convers
 
 “I’m not useless yet.”
 
-The trap went off with a loud, whip-like snap.
+The trap went off with a loud crack.
 “What was that?” she asked. But the way she looked at me...she knew.
 The scream started as something very small, like I’d imagined it, but it got louder until it was drowning out the sound of the music. Ear-splitting.
 
