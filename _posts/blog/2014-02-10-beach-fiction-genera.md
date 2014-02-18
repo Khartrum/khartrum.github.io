@@ -2,7 +2,7 @@
 layout: post
 categories: 
   - blog
-published: false
+published: true
 title: "Beach Fiction #3 "
 ---
 
@@ -171,9 +171,13 @@ I finally brought some traps home from the resort. Those big Victor brand traps 
 
 When it happened we were on the carpet in front of the sofa again. Usual conversations, sea-air coming through the screen door, Pet Sounds spinning on the record player.
 “You want something to drink?” she asked.
+
 “I’m gonna get a beer here in a second.”
+
 “You want me to get it for you?”
+
 “I’m the one who’s supposed to wait on you, pregnant lady.”
+
 “I’m not useless yet.”
 
 The trap went off with a loud, whip-like snap.
@@ -185,19 +189,29 @@ The scream started as something very small, like I’d imagined it, but it got l
 I ran to the closet and opened the doors. I could see its tail flailing around like a goddamn bull-whip. The thing was huge and grey and wet-looking. The copper bar had crushed its spine but it was still alive, screaming for its life. I mean it was deafening. Like I was murdering someone. I went over to the bed and picked up the metal bat I kept next to my night-stand. I walked over to the closet and decided I didn’t know what I was doing.
 
 “Is it dying?” Linda said, standing behind me at the door.
+
 “Go into the kitchen,” I yelled.
+
 I could hear Cheyenne barking over the music and Linda repeating something unintelligible.
+
 “Hold the damn dog,” I said.
+
 “Is it dead?” she whimpered, voice cracking.
+
 “Calm down,” I hollered back. “Just hold the dog.”
 
 I picked it up by the back end of the trap and walked through the living room, past the neon mural and out to the backyard. It was dark except for the white light in the field. I dropped it in the grass and picked up a big cinder-block that was near the soccer bleachers. The thing had gotten quiet. It was breathing slowly. Barely hanging on. Its wet, gray body was still moving around, but not much. No more sound. I dropped the cinder block and walked back to the house. Linda was at the door holding Cheyenne by the collar.
 
 “It was just a rat,” I said.
+
 “Why did it scream like that?”
+
 “I don’t know. It was pretty big.”
+
 “It sounded like a baby,” she said.
+
 “Don’t say that. Don’t talk about it.”
+
 I stood there with her for a while until the record finished playing Caroline, No.
 
 We didn’t stay long after that. Moved over to the mainland as soon as she had you. It was a pretty strange thing, I guess. It was just one of those very funny things.
