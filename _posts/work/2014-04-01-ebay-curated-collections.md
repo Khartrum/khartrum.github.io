@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: eBay Curated Collections
 link: "http://www.ebay.com/usr/khartrum-jp"
 type: project
