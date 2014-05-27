@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: TYOINDEX.COM
 link: "http://tyoindex.com/"
 type: project
