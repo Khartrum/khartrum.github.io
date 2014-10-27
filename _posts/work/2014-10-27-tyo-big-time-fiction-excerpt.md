@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: TYO Big Time Fiction Excerpt
 link: "http://"
 type: writing
