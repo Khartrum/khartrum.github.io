@@ -2,7 +2,7 @@
 layout: post
 categories: 
   - blog
-published: false
+published: true
 title: Kaki Sounds Cool (Fiction)
 ---
 
@@ -22,4 +22,4 @@ At nine pm John walked along the river. There were trees hanging overhead. The n
 
 4
 
-John fried broccoli with garlic in a pan. He cracked 3 eggs over the broccoli and stirred it. His apartment was empty. He listened to American talk radio on the Internet. He boiled coffee and sat on his grass-mat floor and ate the eggs and broccoli. I can’t taste it. I smoke too much, so I can’t taste anything. He poured chili sauce on the eggs. The layer of sauce was very red and translucent. He went onto the balcony and drank the coffee. He smoked a cigarette and watched a boy and a girl ride their bikes in circles near the persimmon tree. “Yadda! Yadda!” a girl said. John looked at the persimmon tree. Kaki, he thought. Kaki sounds cool. “Kaki,” he said, blowing smoke as he spoke. John thought the persimmons looked ripe. A bird pecked some of the fruit. The meat inside was light-orange. John imagined a sunset from the 1980’s. The sunset  poster on my parent’s wall in Florida when I was a baby. The rat and soccer-field lights. John looked up and thought the sky was a good color. Neon colors.  
+John fried broccoli with garlic in a pan. He cracked 3 eggs over the broccoli and stirred it. His apartment was empty. He listened to American talk radio on the Internet. He boiled coffee and sat on his grass-mat floor and ate the eggs and broccoli. I can’t taste it. I smoke too much, so I can’t taste anything. He poured chili sauce on the eggs. The layer of sauce was very red and translucent. He went onto the balcony and drank the coffee. He smoked a cigarette and watched a boy and a girl ride their bikes in circles near the persimmon tree. “Yadda! Yadda!” a girl said. John looked at the persimmon tree. Kaki, he thought. Kaki sounds cool. “Kaki,” he said, blowing smoke as he spoke. John thought the persimmons looked ripe. A bird pecked some of the fruit. The meat inside was light-orange. John imagined a sunset from the 1980’s. The sunset  poster on my parent’s wall in Florida when I was a baby. The rat and soccer-field lights. John looked up and thought the sky was a good color. Neon colors.
