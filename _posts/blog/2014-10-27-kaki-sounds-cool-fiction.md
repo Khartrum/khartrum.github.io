@@ -29,7 +29,7 @@ John’s roommate Dan was sitting on the black sofa in his dark room playing a v
 “The third one is perfect. The new one’s just OK.” Dan sighed. He started a new game. He said that he felt like ramen and a rim job. John laughed and went to his room and shut his door. He jerked off to a video of a girl having anal sex in a bathroom with a man wearing sunglasses. John was quiet because the walls were very thin. Dan turned up his video game in the next room. 
 
 John went to the balcony and smoked a cigarette. It was night. He watched an old man climb onto the tin roof of a neighboring building and steal persimmons from the tree that hung near the second floor of their apartment. 
-“Some guy is stealing the persimmons,” John said. 
+	“Some guy is stealing the persimmons,” John said. 
 “Some bum?” 
 “Doesn't look like a bum,” he said. “Just some old guy and a kid.” 
 The boy stood below the tree and collected the fruit into his shirt. 
