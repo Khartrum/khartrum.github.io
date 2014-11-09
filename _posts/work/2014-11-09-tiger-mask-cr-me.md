@@ -6,7 +6,8 @@ published: true
 title: "TIGER MASK: Crème"
 link: "http://"
 type: writing
-selected: true
+selected: false
+genre: "Video / Directed & Written by"
 ---
 
 A short film documenting one tiger mask's battle versus one gallon of milk.
