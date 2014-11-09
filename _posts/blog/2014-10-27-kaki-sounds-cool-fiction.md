@@ -17,25 +17,47 @@ John woke up at 11:00 am. It was raining. He could taste the meat between his te
 John’s roommate Dan was sitting on the black sofa in his dark room playing a video game. Dan was an Australian. He had lived in Tokyo for 5 years. 
 
 “It’s getting cold outside,” John said. 
+
 “Friend of friends. Where’ve you been?” Dan asked. 
+
 “Reading comics at the combini. Ate a nikuman." 
+
 “Porn comics?” 
+
 “Yeah.” 
+
 “Delicious nikuman?” 
-"Always." John drank his beer and watched Dan kill zombie Nazis with a sniper rifle. “This game is a kind of ridiculous,” John said. 
+
+"Always." John drank his beer and watched Dan kill zombie Nazis with a sniper rifle. 
+
+“This game is a kind of ridiculous,” John said. 
+
 “Why?” 
+
 “Shooting games are just repetitive as hell.” 
+
 “Street fighter is repetitive.” 
-“Street fighter is beautiful. It’s pure. It’s the shining comet of modern competition.” “Fuck that. Street Fighter is brilliant but there are more complex things out there.” “The simplicity of Street Fighter is what makes it perfect,” John said. 
+
+“Street fighter is beautiful. It’s pure. It’s the shining comet of modern competition.” 
+
+“Fuck that. Street Fighter is brilliant but there are more complex things out there.” 
+
+“The simplicity of Street Fighter is what makes it perfect,” John said. 
+
 “The third one is perfect. The new one’s just OK.” Dan sighed. He started a new game. He said that he felt like ramen and a rim job. John laughed and went to his room and shut his door. He jerked off to a video of a girl having anal sex in a bathroom with a man wearing sunglasses. John was quiet because the walls were very thin. Dan turned up his video game in the next room. 
 
 John went to the balcony and smoked a cigarette. It was night. He watched an old man climb onto the tin roof of a neighboring building and steal persimmons from the tree that hung near the second floor of their apartment. 
 
 “Some guy is stealing the persimmons,” John said. 
+
 “Some bum?” 
+
 “Doesn't look like a bum,” he said. “Just some old guy and a kid.” 
+
 The boy stood below the tree and collected the fruit into his shirt. 
+
 “Maybe it’s his persimmon tree,” Dan said. 
+
 “I doubt it. He’s running away now.” The man ran holding the child’s hand. The child held all the persimmons in the front of his shirt and was laughing as they turned down a narrow street towards the Kanda river.
 
 3
