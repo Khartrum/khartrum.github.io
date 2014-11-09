@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: "TIGER MASK: Crème"
 link: "http://"
 type: writing
