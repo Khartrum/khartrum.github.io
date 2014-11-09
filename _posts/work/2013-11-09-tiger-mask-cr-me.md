@@ -4,7 +4,7 @@ categories:
   - work
 published: true
 title: "TIGER MASK: Crème"
-link: ""
+link: "https://www.youtube.com/watch?v=HeVW7pdF0wM"
 type: writing
 selected: false
 genre: Video
