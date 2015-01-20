@@ -4,9 +4,10 @@ categories:
   - work
 published: true
 title: Brooklyn Reclaimed
-link: "http://"
+link: "http://brooklynreclaimed.com/about-us-2/"
 type: writing
-selected: true
+selected: false
+genre: Copy
 ---
 
 ## About Page for Brooklyn Carpentry in BK Reclaimed
