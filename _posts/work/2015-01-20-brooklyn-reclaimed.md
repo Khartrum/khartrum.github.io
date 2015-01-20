@@ -7,8 +7,8 @@ title: Brooklyn Reclaimed
 link: "http://brooklynreclaimed.com/about-us-2/"
 type: writing
 selected: false
-genre: Copy
+genre: Web Copy for Brooklyn Reclaimed
 ---
 
-## About Page for Brooklyn Carpentry in BK Reclaimed
+
 [http://brooklynreclaimed.com/about-us-2/](http://brooklynreclaimed.com/about-us-2/)
