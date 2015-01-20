@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: Brooklyn Reclaimed
 link: "http://"
 type: writing
