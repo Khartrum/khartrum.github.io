@@ -2,8 +2,8 @@
 layout: post
 categories: 
   - blog
-published: false
-title: ""
+published: true
+title: Untitled
 ---
 
 ## From Taj Mahal
