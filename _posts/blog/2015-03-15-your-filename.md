@@ -3,7 +3,7 @@ layout: post
 categories: 
   - blog
 published: true
-title: Untitled
+title: Excerpt
 ---
 
 ## From Taj Mahal
