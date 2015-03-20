@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: true
+published: false
 title: "Family As Content / Frank & Bud As Legend"
 link: "http://tyoindex.com/2013/12/family-as-content-frank-bud-as-legend/"
 type: writing
