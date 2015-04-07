@@ -6,7 +6,7 @@ published: true
 title: "Sick & Tired Of The Rain: A Day With MACH Sakurai"
 link: "http://www.asianmma.com/?p=7471"
 type: writing
-selected: true
+selected: false
 genre: Portrait of a prize fighter
 ---
 
