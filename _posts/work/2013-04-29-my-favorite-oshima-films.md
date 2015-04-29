@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: My Favorite Oshima Films
 link: "http://"
 type: writing
