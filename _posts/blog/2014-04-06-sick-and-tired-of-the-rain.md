@@ -6,10 +6,10 @@ published: true
 title: Sick and Tired of the Rain
 ---
 
-Sick and Tired of the Rain
-by Kris Hartrum
-A portrait of MACH Sakurai prior to DREAM 14, in 2010,
-published at mma-japan.com and tokyofivebrand.com
+Sick and Tired of the Rain by Kris Hartrum
+
+A portrait of MACH Sakurai prior to DREAM 14, in 2010.
+Published at mma-japan.com and tokyofivebrand.com
 
 Monday/May 24th/2010
 
