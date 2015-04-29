@@ -8,6 +8,8 @@ published: true
 
 !["The Master"](/media/Phoenix1.jpg)
 
+_(originally published at the now defuct Screensyndrome.com)_
+
 Anybody will do for you. Not for me. I must have *somebody,* and with the Oscars (silly as they may be) just hours away, paired with the time-honored tradition of self-indulgence, I've decided to put forth a list of my favorite films of 2012. Better late than never. God bless cinema and all her pretty whores.
 
 **The Top Ten**
