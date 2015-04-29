@@ -6,6 +6,7 @@ published: true
 title: My Favorite Oshima Films
 link: "http://"
 type: writing
-selected: true
+selected: false
+genre: Film Review
 ---
 
