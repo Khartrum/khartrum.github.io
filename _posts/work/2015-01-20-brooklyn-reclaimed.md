@@ -6,7 +6,7 @@ published: true
 title: Brooklyn Reclaimed
 link: "http://brooklynreclaimed.com/about-us-2/"
 type: writing
-selected: true
+selected: false
 genre: Website Copy
 ---
 
