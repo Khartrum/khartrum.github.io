@@ -2,7 +2,7 @@
 layout: work
 categories: 
   - work
-published: false
+published: true
 title: "Beach Fiction #3"
 link: "http://krishartrum.com/blog/beach-fiction-genera/"
 type: writing
