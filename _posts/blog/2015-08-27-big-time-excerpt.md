@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: BIG TIME excerpt
 ---
 
 
-The man took the child’s hand and carried all the persimmons in the front of his shirt and the boy was laughing as they turned down a narrow street towards the Kanda river.
+
+The man took the childâ€™s hand and carried all the persimmons in the front of his shirt and the boy was laughing as they turned down a narrow street towards the Kanda river.
