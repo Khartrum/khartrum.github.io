@@ -1,6 +1,8 @@
 ---
 layout: post
 published: true
+categories: 
+  - blog
 title: BIG TIME // Excerpt
 ---
 
