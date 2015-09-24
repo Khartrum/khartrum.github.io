@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: work
 categories: 
   - work
 link: "http://krishartrum.com/blog/2-of-my-stories-in-fondle-magazine"
