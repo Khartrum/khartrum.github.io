@@ -22,17 +22,11 @@ John put the book down and thought about the previous night. He had played video
 He wrote a short list on his pad of paper.
 
 GAMES AT WHICH I EXCEL
-
 TEKKEN 4
-
 STREET FIGHTER 3 and 4
-
 SMASH BROS
-
 NINTENDO ICE HOCKEY
-
 PUNCHOUT
-
 SUPER DODGE-BALL
 
 John decided he was only adequate at Dodgeball. He drew multiple lines through the titles STREET FIGHTER and TEKKEN. 
