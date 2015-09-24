@@ -1,6 +1,8 @@
 ---
 layout: post
 published: true
+categories: 
+  - blog
 title: 2 of My Stories in FONDLE MAGAZINE
 ---
 
