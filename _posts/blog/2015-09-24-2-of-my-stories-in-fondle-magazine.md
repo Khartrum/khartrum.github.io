@@ -27,7 +27,7 @@ STREET FIGHTER 3 and 4
 SMASH BROS
 NINTENDO ICE HOCKEY
 PUNCHOUT
-SUPER DODGE-BALL
+SUPER DODGE-BALL 
 
 John decided he was only adequate at Dodgeball. He drew multiple lines through the titles STREET FIGHTER and TEKKEN. 
 
