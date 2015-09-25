@@ -23,13 +23,13 @@ John put the book down and thought about the previous night. He had played video
 
 He wrote a short list on his pad of paper.
 
-**GAMES AT WHICH I EXCEL**
-TEKKEN 4
-STREET FIGHTER 4
-SMASH BROS
-NINTENDO ICE HOCKEY
-PUNCHOUT
-SUPER DODGE-BALL
+	**GAMES AT WHICH I EXCEL**
+	TEKKEN 4
+	STREET FIGHTER 4
+	SMASH BROS
+	NINTENDO ICE HOCKEY
+	PUNCHOUT
+	SUPER DODGE-BALL
 
 
 [Check out more from issue 4](http://www.fondlemagazine.com/issue-04)
