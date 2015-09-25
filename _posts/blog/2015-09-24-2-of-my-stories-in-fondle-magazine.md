@@ -10,7 +10,6 @@ title: 2 of My Stories in FONDLE MAGAZINE
 
 
 ![IMG_20150903_114824.jpg]({{site.baseurl}}/media/IMG_20150903_114824.jpg)
-LA based [FONDLE MAGAZINE](http://www.fondlemagazine.com/issue-04) published two 
 
 **Like A Slow Bird (excerpt)**
 
