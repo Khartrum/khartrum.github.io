@@ -8,6 +8,7 @@ title: 2 of My Stories in FONDLE MAGAZINE
 
 
 
+
 ![IMG_20150903_114824.jpg]({{site.baseurl}}/media/IMG_20150903_114824.jpg)
 LA based [FONDLE MAGAZINE](http://www.fondlemagazine.com/issue-04) published two of my BIG TIME shorts in issue 4. Gracias, dudes. A fine publication. 
 ![IMG_20150921_171417.jpg]({{site.baseurl}}/media/IMG_20150921_171417.jpg)
@@ -18,4 +19,17 @@ An attractive girl in a white, Victorian-style dress sat down next to John in an
 
 He wanted Tokyo to be like that. He wanted his days and friends to facilitate the same nuanced quality of ‘down but never defeated.’ This could be the new Paris if we really work at it. The new wherever. If I think it and convince the others. Just gotta convince the others. Different world, but possible. Completely overdone and you’re a moron.
 
-John put the book down and thought about the previous night. He had played video games with Dan and Naoki at an apartment in Nakano. John remembered winning 7 of the 8 matches in a fierce session of Street Fighter. He was angry he did not win all 8. Losing in a video game bothered him more than losing at anything else. Forever the undefeated...
+John put the book down and thought about the previous night. He had played video games with Dan and Naoki at an apartment in Nakano. John remembered winning 7 of the 8 matches in a fierce session of Street Fighter. He was angry he did not win all 8. Losing a video game bothered him more than losing anything else. Forever the undefeated.
+
+He wrote a short list on his pad of paper.
+
+**GAMES AT WHICH I EXCEL**
+TEKKEN 4
+STREET FIGHTER 3 and 4
+SMASH BROS
+NINTENDO ICE HOCKEY
+PUNCHOUT
+SUPER DODGE-BALL
+
+
+[Check out more from issue 4](http://www.fondlemagazine.com/issue-04)
