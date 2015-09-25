@@ -10,10 +10,9 @@ title: 2 of My Stories in FONDLE MAGAZINE
 
 
 ![IMG_20150903_114824.jpg]({{site.baseurl}}/media/IMG_20150903_114824.jpg)
-LA based [FONDLE MAGAZINE](http://www.fondlemagazine.com/issue-04) published two of my BIG TIME shorts in issue 4. Gracias, dudes. A fine publication. 
-![IMG_20150921_171417.jpg]({{site.baseurl}}/media/IMG_20150921_171417.jpg)
+LA based [FONDLE MAGAZINE](http://www.fondlemagazine.com/issue-04) published two 
 
-##LIKE A SLOW BIRD (excerpt)
+**Like A Slow Bird (excerpt)**
 
 An attractive girl in a white, Victorian-style dress sat down next to John in an old coffee shop on the West side of Shinjuku. It was nearly dusk and the large yellow windows over the counter, the scuffed chairs and smoke-stained walls made everything appear worn and dirty. John was reading a book of stories called Men Without Women. He liked reading those stories very much and knew it was pretty unoriginal for an American male in his 20’s living overseas to like Hemingway and things that might be associated with him. It’s a good thing to be stale in that way, he thought. A productive cliché. 
 
