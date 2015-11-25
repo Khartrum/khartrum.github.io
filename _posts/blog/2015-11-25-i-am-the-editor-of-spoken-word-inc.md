@@ -2,9 +2,10 @@
 layout: post
 categories: 
   - blog
-published: false
+published: true
 title: I Am The Editor of SPOKEN WORD INC
 ---
+
 
 
 
@@ -13,4 +14,3 @@ I'm now working as an editor for an indepenedent audio book publishing house cal
 We're gonna be very cool. I swear. 
 
 ![BsFitdl5.png]({{site.baseurl}}/media/BsFitdl5.png)
-
