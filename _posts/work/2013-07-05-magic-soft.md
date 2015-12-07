@@ -9,7 +9,7 @@ type: writing
 selected: true
 description: null
 genre: Fiction
-domain: ""
+domain: tyomag.com
 ---
 
 
