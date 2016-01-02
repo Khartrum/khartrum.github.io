@@ -6,10 +6,12 @@ published: true
 title: Interview With Junot Diaz
 link: "http://tyoindex.com/2013/02/conversations-with-people-we-like-6-junot-diaz/"
 type: writing
-selected: true
+selected: false
 description: null
 genre: Interview
+domain: ""
 ---
+
 
 ## A New Post
 
