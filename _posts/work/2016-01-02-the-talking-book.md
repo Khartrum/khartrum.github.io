@@ -7,7 +7,7 @@ domain: "The Talking Book "
 type: project
 genre: Lit Blog
 selected: true
-published: false
+published: true
 title: The Talking Book
 ---
 
