@@ -7,7 +7,7 @@ domain: ""
 type: writing
 genre: Fiction
 selected: true
-published: false
+published: true
 title: Kaki Sounds Cool
 ---
 
