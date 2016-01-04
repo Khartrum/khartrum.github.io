@@ -7,8 +7,7 @@ domain: ""
 type: writing
 genre: Non Fiction
 selected: true
-published: false
+published: true
 title: "Keep a Cool Head & How I Got Here"
 ---
-
 
