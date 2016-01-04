@@ -6,7 +6,7 @@ link: "http://spokenwordinc.com/keep-a-cool-head-and-how-i-got-here/"
 domain: ""
 type: writing
 genre: Non Fiction
-selected: true
+selected: false
 published: true
 title: "Keep a Cool Head & How I Got Here"
 ---
