@@ -2,10 +2,10 @@
 layout: work
 categories: 
   - work
-link: "http://"
+link: "http://spokenwordinc.com/keep-a-cool-head-and-how-i-got-here/"
 domain: ""
 type: writing
-genre: ""
+genre: Non Fiction
 selected: true
 published: false
 title: "Keep a Cool Head & How I Got Here"
