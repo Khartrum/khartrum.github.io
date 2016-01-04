@@ -7,8 +7,7 @@ domain: The Talking Book
 type: writing
 genre: Non Fiction
 selected: false
-published: false
+published: true
 title: Stopped Drinking // Started Writing
 ---
-
 
