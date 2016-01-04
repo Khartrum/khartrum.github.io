@@ -8,6 +8,6 @@ type: writing
 genre: Non Fiction
 selected: false
 published: true
-title: Stopped Drinking // Started Writing
+title: Stopped Drinking / Started Writing
 ---
 
