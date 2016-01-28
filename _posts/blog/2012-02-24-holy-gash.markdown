@@ -1,10 +1,11 @@
 ---
 layout: post
-title: HOLY GASH!
-published: true
-categories:
+categories: 
   - blog
+title: "HOLY GASH!"
+published: false
 ---
+
 &nbsp;
 
 ![](/media/head2.gif)
