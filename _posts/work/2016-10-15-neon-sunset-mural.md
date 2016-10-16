@@ -2,10 +2,10 @@
 layout: work
 categories:
   - work
-link: 'http://'
+link: 'http://entropymag.org/neon-sunset-mural/'
 type: writing
 selected: true
-published: false
+published: true
 title: NEON SUNSET MURAL
+genre: Non-fiction
 ---
- 
