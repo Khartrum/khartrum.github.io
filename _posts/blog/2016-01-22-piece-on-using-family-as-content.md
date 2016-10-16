@@ -1,9 +1,9 @@
 ---
 layout: post
-categories: 
+categories:
   - blog
 published: true
-title: Piece on Using Family as Content
+title: Using Family as Content
 ---
 
 [I wrote a piece](http://spokenwordinc.com/family-as-fiction-frank-bud-as-legend/)
