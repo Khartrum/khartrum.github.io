@@ -1,8 +1,8 @@
 ---
 layout: post
-categories: 
+categories:
   - blog
-published: true
+published: false
 title: I Am The Editor of SPOKEN WORD INC
 ---
 
