@@ -1,12 +1,11 @@
 ---
 layout: work
-categories: 
+categories:
   - work
 published: true
-title: "Beach Fiction #3"
-link: "http://krishartrum.com/blog/beach-fiction-genera/"
+title: 'Beach Fiction #3'
+link: 'http://krishartrum.com/blog/beach-fiction-genera/'
 type: writing
-selected: true
+selected: false
 genre: Fiction
 ---
-
