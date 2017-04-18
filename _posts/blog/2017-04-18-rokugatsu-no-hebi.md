@@ -2,7 +2,7 @@
 layout: post
 categories:
   - blog
-published: false
+published: true
 title: Rokugatsu No Hebi
 ---
 ![full_cropped_Screen_Shot_2017-03-29_at_11.24.17_AM.jpg]({{site.baseurl}}/media/full_cropped_Screen_Shot_2017-03-29_at_11.24.17_AM.jpg)
