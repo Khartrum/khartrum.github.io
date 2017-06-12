@@ -1,10 +1,11 @@
 ---
 layout: work
-categories: 
+categories:
   - work
 published: true
 title: Sleeping Next To Sleeping Beauties
-link: "http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/"
+link: >-
+  https://web.archive.org/web/20151203104518/http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/
 type: writing
 selected: false
 description: null
@@ -13,4 +14,4 @@ domain: tyoindex.com
 ---
 
 
-Novella, Film, Massage Parlors [http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/](http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/)
+Novella, Film, Massage Parlors https://web.archive.org/web/20151203104518/http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/
