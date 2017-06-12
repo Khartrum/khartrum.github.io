@@ -1,10 +1,11 @@
 ---
 layout: work
-categories: 
+categories:
   - work
 published: true
 title: Interview of Shi Shi Yamazaki for TYO
-link: "http://tyoindex.com/2013/09/conversations-with-people-we-like-8-shishi-yamazaki/"
+link: >-
+  https://web.archive.org/web/20160324152726/http://tyoindex.com/2013/09/conversations-with-people-we-like-8-shishi-yamazaki/
 type: writing
 selected: false
 genre: Interview
