@@ -1,15 +1,15 @@
 ---
 layout: work
-categories: 
+categories:
   - work
 published: true
 title: Interview With Junot Diaz
-link: "http://tyoindex.com/2013/02/conversations-with-people-we-like-6-junot-diaz/"
+link: >-
+  https://web.archive.org/web/20160804072701/http://tyoindex.com/2013/02/conversations-with-people-we-like-6-junot-diaz/
 type: writing
 selected: false
 description: null
 genre: Interview
-domain: ""
 ---
 
 
