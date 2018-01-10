@@ -2,7 +2,7 @@
 layout: work
 categories:
   - work
-published: true
+published: false
 title: Sleeping Next To Sleeping Beauties
 link: >-
   https://web.archive.org/web/20151203104518/http://tyoindex.com/2013/03/sleeping-next-to-sleeping-beauties/
