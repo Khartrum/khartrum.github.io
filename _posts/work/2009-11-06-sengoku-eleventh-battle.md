@@ -5,7 +5,7 @@ categories:
 link: 'http://www.sherdog.com/news/articles/Santiago-Hioki-Upset-in-Sengoku-20779'
 type: writing
 selected: false
-published: false
+published: true
 title: 'Sengoku: Eleventh Battle'
 domain: sherdog.com
 genre: MMA
