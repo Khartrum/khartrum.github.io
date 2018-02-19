@@ -5,7 +5,7 @@ categories:
 domain: Elke Journal
 type: writing
 genre: Fiction
-selected: true
+selected: false
 published: true
 title: Kaki Sounds Cool
 link: >-
