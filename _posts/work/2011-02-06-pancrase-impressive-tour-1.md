@@ -9,7 +9,7 @@ selected: true
 published: true
 title: PANCRASE IMPRESSIVE TOUR 1
 domain: middleeasy.com
-genre: MMA
+genre: 'sports: mma'
 ---
 ## A New Post
 
