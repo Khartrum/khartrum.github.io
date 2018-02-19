@@ -9,7 +9,7 @@ selected: true
 published: true
 title: 'Vale Tudo Japan, 2009'
 domain: sherdog.com
-genre: Sports
+genre: 'sports: mma'
 ---
 ## A New Post
 
