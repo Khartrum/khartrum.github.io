@@ -1,15 +1,17 @@
 ---
 layout: work
-categories: 
+categories:
   - work
 published: true
-title: Improving Your Japanese in Tokyo
-link: "http://learnjapanese.com/improving-your-japanese-skills-in-tokyo/"
+title: 'Child Of Shooto, Interview of Hatsu Hioki '
+link: >-
+  https://web.archive.org/web/20110212014903/http://www.mma-japan.com:80/index.php?option=com_content&view=article&id=360:the-child-of-shooto&catid=50:sengoku&Itemid=94
 type: writing
 selected: false
-genre: Language
+genre: MMA
+domain: middleeasy.com
 ---
 
-## Improving Your Japanese in Tokyo
+## Interview of Hatsu Hioki
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
