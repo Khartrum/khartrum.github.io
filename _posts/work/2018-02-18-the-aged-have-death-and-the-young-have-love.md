@@ -6,7 +6,7 @@ link: >-
   https://entropymag.org/the-aged-have-death-and-the-young-have-love-kawabatas-house-of-sleeping-beauties/
 type: writing
 selected: true
-published: false
+published: true
 title: 'THE AGED HAVE DEATH, AND THE YOUNG HAVE LOVE'
 domain: entropymag.org
 genre: essay
