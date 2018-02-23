@@ -1,13 +1,12 @@
 ---
 layout: work
-categories: 
+categories:
   - work
-link: "http://spokenwordinc.com/stopped-drinking-started-writing/"
+link: 'http://spokenwordinc.com/stopped-drinking-started-writing/'
 domain: The Talking Book
 type: writing
-genre: "Non-Fiction"
+genre: Non-Fiction
 selected: false
-published: true
+published: false
 title: Stopped Drinking / Started Writing
 ---
-
