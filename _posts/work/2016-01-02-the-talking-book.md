@@ -1,13 +1,12 @@
 ---
 layout: work
-categories: 
+categories:
   - work
-link: "http://spokenwordinc.com/thetalkingbook/"
-domain: "The Talking Book "
+link: 'https://thetalkingbook.org'
+domain: 'The Talking Book '
 type: project
-genre: Lit Blog
-selected: false
+genre: Nonprofit Audiobook Publisher
+selected: true
 published: true
 title: The Talking Book
 ---
-
