@@ -1,10 +1,10 @@
 ---
 layout: work
-categories: 
+categories:
   - work
-published: true
+published: false
 title: Magic Soft
-link: "http://tyomag.com/issue-02/hartrum"
+link: 'http://tyomag.com/issue-02/hartrum'
 type: writing
 selected: false
 description: null
