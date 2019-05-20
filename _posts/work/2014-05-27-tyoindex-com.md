@@ -1,12 +1,11 @@
 ---
 layout: work
-categories: 
+categories:
   - work
-published: true
+published: false
 title: TYOINDEX.COM
-link: "http://tyoindex.com/"
+link: 'http://tyoindex.com/'
 type: project
 selected: false
-genre: "Tokyo Art & Lit Blog"
+genre: Tokyo Art & Lit Blog
 ---
-
