@@ -1,13 +1,12 @@
 ---
 layout: work
-categories: 
+categories:
   - work
-link: "http://spokenwordinc.com/keep-a-cool-head-and-how-i-got-here/"
+link: 'http://talkingbook.pub/keep-a-cool-head-and-how-i-got-here/'
 domain: The Talking Book
 type: writing
 genre: Non Fiction
 selected: false
 published: true
-title: "Keep a Cool Head, How I Got Here"
+title: 'Keep a Cool Head, How I Got Here'
 ---
-
