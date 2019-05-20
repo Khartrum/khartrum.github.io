@@ -8,4 +8,5 @@ selected: false
 published: true
 title: The Talking Book Podcast
 genre: Podcast
+domain: The Talking Book
 ---
