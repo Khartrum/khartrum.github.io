@@ -1,10 +1,10 @@
 ---
 layout: work
-categories: 
+categories:
   - work
-published: true
-title: "The Skinny Girl, Shonan And You Can Take New York"
-link: "http://tyomag.com/issue-01/excerpt-from-big-time/"
+published: false
+title: 'The Skinny Girl, Shonan And You Can Take New York'
+link: 'http://tyomag.com/issue-01/excerpt-from-big-time/'
 type: writing
 selected: false
 domain: tyomag.com
