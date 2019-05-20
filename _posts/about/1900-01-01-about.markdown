@@ -1,9 +1,9 @@
 ---
 layout: default
-official: true
-published: true
 categories:
   - about
+official: true
+published: true
 ---
 
-Kris Hartrum lives and works in Asheville, NC. He is the editor and co-founder of Talking Book. You can find him on Twitter @khartrum.
+Kris Hartrum lives and works in Asheville, NC. He is the founder and publisher of The Talking Book, a 501(c)3 non-profit audiobook publisher of indie literature. You can find him on Twitter @khartrum.
