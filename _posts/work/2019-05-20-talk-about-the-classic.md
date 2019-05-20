@@ -8,6 +8,7 @@ selected: true
 published: true
 title: 'Talk About The Classic '
 genre: Podcast
+domain: comedy
 ---
 ## A New Post
 
