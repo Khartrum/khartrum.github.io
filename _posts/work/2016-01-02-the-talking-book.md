@@ -3,9 +3,9 @@ layout: work
 categories:
   - work
 link: 'https://thetalkingbook.org'
-domain: 'The Talking Book '
+domain: Audiobook Publisher
 type: project
-genre: Nonprofit Audiobook Publisher
+genre: Arts Nonprofit
 selected: true
 published: true
 title: The Talking Book
