@@ -6,4 +6,4 @@ official: true
 published: true
 ---
 
-Kris Hartrum lives and works in Asheville, NC. He is the founder and publisher of The Talking Book, a 501(c)3 non-profit audiobook publisher of indie literature. His writing has appeared in The New York Tyrant, Hobart Pulp, Entropy Mag, Pank, Elk Journal, Fondle Magazine and others. You can find him on Twitter @khartrum.
+Kris Hartrum lives and works in Asheville, NC. He is the founder and publisher of The Talking Book, a 501(c)3 non-profit audiobook publisher of indie literature. His writing has appeared in The New York Tyrant, Hobart Pulp, Entropy Mag, Elk Journal, Fondle Magazine and others. You can find him on Twitter @khartrum.
