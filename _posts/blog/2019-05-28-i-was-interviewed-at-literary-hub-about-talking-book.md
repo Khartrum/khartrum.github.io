@@ -2,7 +2,7 @@
 layout: post
 categories:
   - blog
-published: false
+published: true
 title: I was interviewed at Literary Hub about Talking Book
 ---
 ## A New Post
