@@ -7,6 +7,6 @@ domain: The Talking Book
 type: writing
 genre: Non Fiction
 selected: false
-published: true
+published: false
 title: 'Keep a Cool Head, How I Got Here'
 ---
