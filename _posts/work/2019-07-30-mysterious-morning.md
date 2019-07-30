@@ -2,11 +2,13 @@
 layout: work
 categories:
   - work
-link: 'http://'
+link: 'http://thenervousbreakdown.com/khartrum/2019/07/mysterious-morning/'
 type: writing
 selected: true
 published: true
 title: Mysterious Morning
+domain: The Nervous Breakdown
+genre: Fiction
 ---
 ## A New Post
 
