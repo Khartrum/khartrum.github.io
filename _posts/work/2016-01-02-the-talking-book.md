@@ -6,7 +6,7 @@ link: 'https://thetalkingbook.org'
 domain: Literary Nonprofit
 type: project
 genre: Audiobook Publisher
-selected: true
+selected: false
 published: true
 title: The Talking Book
 ---
