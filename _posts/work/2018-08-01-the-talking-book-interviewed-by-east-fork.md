@@ -6,7 +6,7 @@ link: 'https://eastfork.com/blogs/journal/interview-talking-book'
 type: project
 selected: false
 published: true
-title: East Fork Interview
+title: Interviewed at East Fork
 domain: East Fork
 genre: Interview
 ---
