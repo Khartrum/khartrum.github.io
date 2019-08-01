@@ -9,6 +9,7 @@ link: >-
 type: writing
 selected: false
 genre: Interview
+domain: TYO MAG
 ---
 
 Interview Of artist Shi Shi Yamazaki
