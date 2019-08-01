@@ -6,7 +6,7 @@ link: >-
   https://lithub.com/audiobooks-the-past-present-and-future-of-another-way-to-read/
 type: project
 selected: false
-published: false
+published: true
 title: Interview at Literary Hub
 domain: Literary Hub
 genre: Interview
