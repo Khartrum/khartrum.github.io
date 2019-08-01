@@ -2,11 +2,13 @@
 layout: work
 categories:
   - work
-link: 'http://'
-type: writing
+type: project
 selected: true
 published: true
 title: 'Karate Heartbreak Tumblr '
+domain: tumblr
+link: 'https://khartrum.tumblr.com/'
+genre: blog
 ---
 ## A New Post
 
