@@ -1,10 +1,10 @@
 ---
 layout: work
-categories: 
+categories:
   - work
-published: true
+published: false
 title: Top Ten Films of 2012
-link: "http://krishartrum.com/blog/my-favorite-films-of-2012/"
+link: 'http://krishartrum.com/blog/my-favorite-films-of-2012/'
 type: writing
 selected: false
 description: null
