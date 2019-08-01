@@ -5,7 +5,7 @@ categories:
 link: 'http://'
 type: writing
 selected: true
-published: false
+published: true
 title: 'Karate Heartbreak Tumblr '
 ---
 ## A New Post
