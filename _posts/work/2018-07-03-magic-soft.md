@@ -8,4 +8,5 @@ selected: true
 published: true
 title: Magic Soft
 genre: Fiction
+domain: The New York Tyrant
 ---
