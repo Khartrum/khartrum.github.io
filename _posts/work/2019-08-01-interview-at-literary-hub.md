@@ -7,7 +7,7 @@ link: >-
 type: project
 selected: false
 published: true
-title: Interviewed at Literary Hub
+title: Literary Hub Interview
 domain: Literary Hub
 genre: Interview
 ---
