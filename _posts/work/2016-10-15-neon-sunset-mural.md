@@ -8,4 +8,5 @@ selected: false
 published: true
 title: NEON SUNSET MURAL
 genre: Non-fiction
+domain: Entropy Magazine
 ---
