@@ -8,4 +8,5 @@ selected: false
 published: true
 title: 'SPRAWLING CARPET, LOST AT SEA'
 genre: Non-fiction
+domain: Entropy Magazine
 ---
