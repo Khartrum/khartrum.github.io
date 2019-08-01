@@ -10,6 +10,7 @@ type: writing
 selected: false
 description: null
 genre: Interview
+domain: TYO MAG
 ---
 
 
