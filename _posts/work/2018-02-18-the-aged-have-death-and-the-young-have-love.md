@@ -8,7 +8,7 @@ type: writing
 selected: true
 published: true
 title: 'THE AGED HAVE DEATH, AND THE YOUNG HAVE LOVE'
-domain: entropymag.org
+domain: Entropy Magazine
 genre: essay
 ---
 ## A New Post
