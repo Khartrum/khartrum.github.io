@@ -8,4 +8,5 @@ link: 'http://krishartrum.com/blog/sick-and-tired-of-the-rain'
 type: writing
 selected: false
 genre: 'sports: mma'
+domain: MMA Japan
 ---
