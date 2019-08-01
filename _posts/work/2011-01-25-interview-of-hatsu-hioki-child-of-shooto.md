@@ -8,7 +8,7 @@ type: writing
 selected: false
 published: true
 title: 'Interview of Hatsu Hioki: Child Of Shooto'
-domain: middleeasy.com
+domain: middleeasy
 genre: 'sports: mma'
 ---
 ## A New Post
