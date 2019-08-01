@@ -4,8 +4,8 @@ categories:
   - work
 link: 'https://eastfork.com/blogs/journal/interview-talking-book'
 type: project
-selected: true
-published: false
+selected: false
+published: true
 title: The Talking Book Interviewed by EAST FORK
 domain: East Fork
 genre: Interview
