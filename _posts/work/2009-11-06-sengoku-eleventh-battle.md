@@ -7,7 +7,7 @@ type: writing
 selected: false
 published: true
 title: 'Sengoku: Eleventh Battle'
-domain: sherdog.com
+domain: sherdog
 genre: 'sports: mma'
 ---
 ## A New Post
