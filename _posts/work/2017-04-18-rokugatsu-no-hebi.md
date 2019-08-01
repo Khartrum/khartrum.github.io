@@ -8,4 +8,5 @@ selected: true
 published: true
 title: Rokugatsu No Hebi
 genre: Fiction
+domain: Hobart Pulp
 ---
