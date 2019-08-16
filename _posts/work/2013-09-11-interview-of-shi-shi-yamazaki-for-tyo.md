@@ -8,7 +8,7 @@ link: >-
   https://web.archive.org/web/20160324152726/http://tyoindex.com/2013/09/conversations-with-people-we-like-8-shishi-yamazaki/
 type: writing
 selected: false
-genre: Interview
+genre: Content
 domain: TYO MAG
 ---
 
