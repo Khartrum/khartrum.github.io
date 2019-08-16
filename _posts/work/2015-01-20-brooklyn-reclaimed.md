@@ -1,14 +1,14 @@
 ---
 layout: work
-categories: 
+categories:
   - work
 published: false
 title: Brooklyn Reclaimed
-link: "http://brooklynreclaimed.com/about-us-2/"
-type: writing
+link: 'http://brooklynreclaimed.com/about-us-2/'
+type: project
 selected: false
-genre: Website Copy
-domain: ""
+genre: Web Copy
+domain: Brooklyn Reclaimed
 ---
 
 
