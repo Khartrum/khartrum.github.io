@@ -5,7 +5,7 @@ categories:
 published: true
 title: TIGER MASK / Crème
 link: 'https://www.youtube.com/watch?v=HeVW7pdF0wM'
-type: writing
+type: project
 selected: false
 genre: Video
 domain: YouTube
