@@ -5,7 +5,7 @@ categories:
 published: true
 title: Travel / Macau
 link: 'http://culturehome.com/posts/travel-to-macau'
-type: writing
+type: project
 selected: false
 genre: Travel
 domain: Culture Home
