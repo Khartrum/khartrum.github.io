@@ -4,12 +4,12 @@ categories:
   - work
 link: >-
   https://web.archive.org/web/20110211021212/http://www.mma-japan.com:80/index.php?option=com_content&view=article&id=368:pancrase-impressive-tour-1&catid=53:pancrase&Itemid=99
-type: writing
+type: project
 selected: false
 published: true
 title: PANCRASE IMPRESSIVE TOUR 1
 domain: middleeasy
-genre: 'sports: mma'
+genre: Sports Coverage
 ---
 ## A New Post
 
