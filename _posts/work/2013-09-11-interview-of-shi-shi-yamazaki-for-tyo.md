@@ -6,7 +6,7 @@ published: true
 title: Interview of Shi Shi Yamazaki for TYO
 link: >-
   https://web.archive.org/web/20160324152726/http://tyoindex.com/2013/09/conversations-with-people-we-like-8-shishi-yamazaki/
-type: project
+type: writing
 selected: false
 genre: Content
 domain: TYO MAG
