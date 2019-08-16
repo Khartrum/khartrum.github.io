@@ -3,7 +3,7 @@ layout: work
 categories:
   - work
 link: 'http://www.sherdog.com/news/articles/Santiago-Hioki-Upset-in-Sengoku-20779'
-type: project
+type: writing
 selected: false
 published: true
 title: 'Sengoku: Eleventh Battle'
