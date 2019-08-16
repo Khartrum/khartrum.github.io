@@ -9,7 +9,7 @@ link: >-
 type: project
 selected: false
 genre: Content
-domain: TYO
+domain: TYO mag
 ---
 
 https://web.archive.org/web/20160804041842/http://tyoindex.com/2013/02/conversations-with-people-we-like-5-dirty-beaches/
