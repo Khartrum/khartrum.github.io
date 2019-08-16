@@ -1,14 +1,15 @@
 ---
 layout: work
-categories: 
+categories:
   - work
-published: false
+published: true
 title: Never Ending Tokyo
-link: "http://culturehome.com/blog/entry/never-ending-tokyo-destinations-for-the-first-time-traveler/"
-type: writing
+link: >-
+  http://culturehome.com/blog/entry/never-ending-tokyo-destinations-for-the-first-time-traveler/
+type: project
 selected: false
 domain: culturehome.com/blog
-genre: Travel
+genre: Content
 ---
 
 [Never Ending Tokyo: Destinations for the First Time Traveler](http://culturehome.com/blog/entry/never-ending-tokyo-destinations-for-the-first-time-traveler/)
