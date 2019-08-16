@@ -5,7 +5,7 @@ categories:
 published: false
 title: 'Interview: Dirty Beaches'
 link: 'http://tyoindex.com/2013/02/conversations-with-people-we-like-5-dirty-beaches/'
-type: project
+type: writing
 selected: false
 genre: Interview
 ---
