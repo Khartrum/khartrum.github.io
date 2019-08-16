@@ -8,7 +8,7 @@ selected: false
 published: true
 title: 'Sengoku: Eleventh Battle'
 domain: sherdog
-genre: Sports
+genre: Sports Coverage
 ---
 ## A New Post
 
