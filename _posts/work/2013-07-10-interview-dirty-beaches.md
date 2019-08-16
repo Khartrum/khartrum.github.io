@@ -8,7 +8,7 @@ link: >-
   https://web.archive.org/web/20160804041842/http://tyoindex.com/2013/02/conversations-with-people-we-like-5-dirty-beaches/
 type: writing
 selected: false
-genre: Interview
+genre: Content
 ---
 
 https://web.archive.org/web/20160804041842/http://tyoindex.com/2013/02/conversations-with-people-we-like-5-dirty-beaches/
