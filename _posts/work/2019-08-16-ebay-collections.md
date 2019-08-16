@@ -3,8 +3,8 @@ layout: work
 categories:
   - work
 link: 'http://'
-type: writing
-selected: true
+type: project
+selected: false
 published: false
 title: eBay Collections
 ---
