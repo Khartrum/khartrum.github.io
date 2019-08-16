@@ -4,12 +4,12 @@ categories:
   - work
 link: >-
   http://www.sherdog.com/news/news/Gomi-Inoue-Victorious-at-Vale-Tudo-Japan-2009-20623
-type: writing
+type: project
 selected: false
 published: true
 title: 'Vale Tudo Japan, 2009'
 domain: Sherdog
-genre: 'sports: mma'
+genre: Sports Coverage
 ---
 ## A New Post
 
