@@ -6,9 +6,10 @@ published: true
 title: 'Interview: Dirty Beaches'
 link: >-
   https://web.archive.org/web/20160804041842/http://tyoindex.com/2013/02/conversations-with-people-we-like-5-dirty-beaches/
-type: writing
+type: project
 selected: false
 genre: Content
+domain: TYO
 ---
 
 https://web.archive.org/web/20160804041842/http://tyoindex.com/2013/02/conversations-with-people-we-like-5-dirty-beaches/
