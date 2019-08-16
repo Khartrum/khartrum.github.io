@@ -3,7 +3,7 @@ layout: work
 categories:
   - work
 link: 'http://'
-type: project
+type: writing
 selected: false
 published: true
 title: eBay Collections
