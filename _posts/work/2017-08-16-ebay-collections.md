@@ -7,6 +7,8 @@ type: project
 selected: false
 published: true
 title: eBay Collections
+domain: ebay
+genre: Copy & Digital Curation
 ---
 ## A New Post
 
