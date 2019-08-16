@@ -5,7 +5,7 @@ categories:
 link: 'http://'
 type: project
 selected: false
-published: false
+published: true
 title: eBay Collections
 ---
 ## A New Post
