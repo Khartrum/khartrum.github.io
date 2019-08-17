@@ -9,7 +9,7 @@ selected: false
 published: true
 title: eBay Collections
 domain: ebay
-genre: Copy & Digital Curation
+genre: Copywriting & Digital Curation
 ---
 ## A New Post
 
