@@ -3,7 +3,7 @@ layout: work
 categories:
   - work
 type: project
-selected: true
+selected: false
 published: true
 title: 'Karate Heartbreak Tumblr '
 domain: tumblr
