@@ -6,7 +6,7 @@ link: 'https://www.ebayinc.com/'
 type: writing
 selected: false
 published: true
-title: eBay Inc Website Copy
+title: 'eBay Inc '
 domain: ebay
 genre: Copywriting
 ---
