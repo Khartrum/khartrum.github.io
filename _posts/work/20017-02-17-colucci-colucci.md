@@ -4,8 +4,8 @@ categories:
   - work
 link: 'https://www.colucci-design.com/home'
 type: writing
-selected: true
-published: false
+selected: false
+published: true
 title: 'COLUCCI & COLUCCI '
 domain: 'https://www.colucci-design.com/home'
 genre: Copywriting
