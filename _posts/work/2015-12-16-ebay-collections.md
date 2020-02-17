@@ -2,14 +2,13 @@
 layout: work
 categories:
   - work
-link: >-
-  https://drive.google.com/file/d/1DN4ymyFaLRQ1BHV-FyR2xGOJvs_4UTtO/view?usp=sharing
+link: 'https://www.ebayinc.com/'
 type: writing
 selected: false
 published: true
-title: eBay Collections
+title: eBay Inc Website Copy
 domain: ebay
-genre: Copywriting & Digital Curation
+genre: Copywriting
 ---
 ## A New Post
 
