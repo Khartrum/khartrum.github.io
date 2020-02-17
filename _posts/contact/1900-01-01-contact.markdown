@@ -1,10 +1,9 @@
 ---
 layout: default
-categories: 
+categories:
   - contact
 title: Contact Kris
 published: true
 official: true
 ---
-
-If you have a question or wish to contact me in order to solicit work, please use the following form.
+If you have questions or wish to solicit writing services, please use the following form.
