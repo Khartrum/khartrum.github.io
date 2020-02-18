@@ -6,7 +6,7 @@ published: true
 title: THE MARVELLOUS EQUATIONS OF THE DREAD
 ---
 
-![marvellous_equations+(2).jpg]({{site.baseurl}}/media/marvellous_equations+(2).jpg)
+![]({{site.baseurl}}/media/marvellous_equations%2B(2).jpg)
 
 [I just finished producing a new audiobook with Marcia Douglas and the legendary New Directions.](https://thetalkingbook.org/the-marvellous-equations-of-the-dread)
 
