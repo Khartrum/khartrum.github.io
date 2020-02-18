@@ -3,7 +3,7 @@ layout: post
 categories:
   - blog
 published: true
-title: 'THE MARVELLOUS EQUATIONS OF THE DREAD: A NOVEL IN BASS RIDDIM'
+title: THE MARVELLOUS EQUATIONS OF THE DREAD
 ---
 
 ![marvellous_equations+(2).jpg]({{site.baseurl}}/media/marvellous_equations+(2).jpg)
