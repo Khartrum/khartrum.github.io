@@ -7,4 +7,6 @@ published: true
 official: true
 ---
 
-Need copywriting, articles, a sales pages? I'm here for you. Shoot me your name, email address and a little about your project. 
+## Need copywriting, articles, a sales page? 
+
+I'm here for you. Shoot me your name, email address and a little about your project. 
