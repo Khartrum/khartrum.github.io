@@ -2,12 +2,10 @@
 layout: default
 categories:
   - contact
-title: 'Contact Kris '
+title: Contact Kris
 published: true
 official: true
 ---
 
 
-### I'm a freelance writer and editor in Asheville, North Carolina.
-
-Need articles? Website copy? A sales page? Shoot me your info and I'll get back to you.
+## Need articles? Website copy? A sales page? Shoot me your info and I'll get back to you.
