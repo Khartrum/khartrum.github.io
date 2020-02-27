@@ -5,7 +5,7 @@ categories:
 link: 'https://www.ebayinc.com/'
 type: writing
 selected: false
-published: true
+published: false
 title: 'eBay Inc '
 domain: ebay
 genre: Copywriting
