@@ -8,6 +8,6 @@ official: true
 ---
 
 
-## Need writing?
+Need a writer, editor or something else?
 
 Shoot me your info and I'll get back to you.
