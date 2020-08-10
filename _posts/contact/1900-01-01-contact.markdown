@@ -8,8 +8,8 @@ official: true
 ---
 
 
-For writing and editing-related inquiries, contact krishartrum@gmail.com
+-For writing and editing-related inquiries please contact krishartrum@gmail.com 
 
-For audiobook publishing-related inquiries, contact submit@talkingbook.pub
+-For audiobook publishing-related inquiries, contact submit@talkingbook.pub
 
-Or use the form below
+[Twitter](https://twitter.com/KHartrum)
