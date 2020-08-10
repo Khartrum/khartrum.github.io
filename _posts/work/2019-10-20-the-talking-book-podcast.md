@@ -7,6 +7,6 @@ type: project
 selected: false
 published: true
 title: The Talking Book Podcast
-genre: show host and creator
+genre: host and creator
 domain: podcast
 ---
