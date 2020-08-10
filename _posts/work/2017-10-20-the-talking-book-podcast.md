@@ -2,11 +2,11 @@
 layout: work
 categories:
   - work
-link: 'https://itunes.apple.com/us/podcast/the-talking-book-podcast/id1244933995?mt=2'
+link: 'https://open.spotify.com/show/086iC767Y34rapJjKKS445'
 type: project
 selected: false
 published: true
 title: The Talking Book Podcast
 genre: Podcast
-domain: Literature
+domain: show host and creator
 ---
