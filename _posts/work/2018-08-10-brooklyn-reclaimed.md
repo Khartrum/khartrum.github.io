@@ -5,7 +5,7 @@ categories:
 link: 'https://brooklynreclaimed.com/'
 type: project
 selected: false
-published: false
+published: true
 title: Brooklyn Reclaimed
 genre: Copywriting
 ---
