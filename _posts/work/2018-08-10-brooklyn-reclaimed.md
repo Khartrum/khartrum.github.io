@@ -8,7 +8,7 @@ selected: false
 published: true
 title: Brooklyn Reclaimed
 genre: Copywriting
-domain: Web Content
+domain: Furniture Company
 ---
 ## A New Post
 
