@@ -8,4 +8,4 @@ official: true
 ---
 
 
-For writing and editing or audiobook related inquiries, please use the form below. <3
+For writing, editing or audiobook related-inquiries, please use the form below. 
