@@ -9,7 +9,7 @@ selected: false
 published: true
 title: Literary Hub Interview
 domain: Literary Magazine
-genre: Interview
+genre: Interviewed
 ---
 ## A New Post
 
