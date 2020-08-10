@@ -8,6 +8,7 @@ selected: false
 published: true
 title: Brooklyn Reclaimed
 genre: Copywriting
+domain: Web Content
 ---
 ## A New Post
 
