@@ -8,4 +8,7 @@ official: true
 ---
 
 
+
+![EE5y-JqF_400x400.jpg]({{site.baseurl}}/media/EE5y-JqF_400x400.jpg)
+
 To solicit writing, editing or audiobook production, please use the form below. <3
