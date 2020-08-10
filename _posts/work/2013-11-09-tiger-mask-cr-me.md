@@ -5,10 +5,10 @@ categories:
 published: true
 title: TIGER MASK / Crème
 link: 'https://www.youtube.com/watch?v=HeVW7pdF0wM'
-type: project
+type: writing
 selected: false
-genre: Video
-domain: YouTube
+genre: writer and director
+domain: video
 ---
 
 A short film documenting one tiger mask's battle versus one gallon of milk.
