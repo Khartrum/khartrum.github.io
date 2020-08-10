@@ -7,7 +7,7 @@ type: project
 selected: false
 published: true
 title: East Fork Interview
-domain: East Fork
+domain: Pottery Company
 genre: Interview
 ---
 ## A New Post
