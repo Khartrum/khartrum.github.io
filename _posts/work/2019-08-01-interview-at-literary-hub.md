@@ -8,7 +8,7 @@ type: project
 selected: false
 published: true
 title: Literary Hub Interview
-domain: Literary Hub
+domain: Literary Magazine
 genre: Interview
 ---
 ## A New Post
