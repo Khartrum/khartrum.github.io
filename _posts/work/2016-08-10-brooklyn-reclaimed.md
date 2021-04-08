@@ -5,7 +5,7 @@ categories:
 link: 'https://brooklynreclaimed.com/'
 type: project
 selected: false
-published: true
+published: false
 title: Brooklyn Reclaimed
 genre: Copywriting
 domain: Furniture Company
