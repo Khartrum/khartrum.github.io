@@ -7,6 +7,6 @@ type: project
 selected: false
 published: true
 title: Talking Book Podcast
-genre: literary
+genre: literature
 domain: podcast
 ---
