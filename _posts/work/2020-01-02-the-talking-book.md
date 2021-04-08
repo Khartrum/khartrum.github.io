@@ -3,9 +3,9 @@ layout: work
 categories:
   - work
 link: 'https://thetalkingbook.org'
-domain: Indie Audiobook Publisher & Recording Studio
+domain: 'Indie Audiobook Publisher '
 type: project
-genre: Editor
+genre: Recording Studio
 selected: false
 published: true
 title: The Talking Book
