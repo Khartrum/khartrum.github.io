@@ -3,7 +3,7 @@ layout: work
 categories:
   - work
 link: 'https://thetalkingbook.org'
-domain: 501c3 Nonprofit Publisher
+domain: Indie Audiobook Publisher & Recording Studio
 type: project
 genre: Editor
 selected: false
