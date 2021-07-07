@@ -5,10 +5,10 @@ categories:
 link: 'https://www.ebayinc.com/'
 type: writing
 selected: false
-published: false
+published: true
 title: 'eBay Inc '
 domain: ebay
-genre: Copywriting
+genre: Web Curation
 ---
 ## A New Post
 
