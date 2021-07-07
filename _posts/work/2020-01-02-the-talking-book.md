@@ -5,7 +5,7 @@ categories:
 link: 'https://thetalkingbook.org'
 domain: 'Indie Audiobook Publisher '
 type: project
-genre: Recording Studio
+genre: Website Copy
 selected: false
 published: true
 title: The Talking Book
