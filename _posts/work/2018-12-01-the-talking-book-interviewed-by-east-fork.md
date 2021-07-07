@@ -3,12 +3,12 @@ layout: work
 categories:
   - work
 link: 'https://eastfork.com/blogs/journal/interview-talking-book'
-type: project
+type: writing
 selected: false
 published: true
 title: East Fork Interview
 domain: Pottery Company
-genre: Interviewed
+genre: Interviewed by
 ---
 ## A New Post
 
