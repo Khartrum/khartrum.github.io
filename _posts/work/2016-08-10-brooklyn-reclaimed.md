@@ -7,6 +7,6 @@ type: project
 selected: false
 published: true
 title: Brooklyn Reclaimed
-genre: Web Content
+genre: Website Copy
 domain: Furniture Company
 ---
