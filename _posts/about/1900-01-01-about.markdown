@@ -5,4 +5,4 @@ categories:
 official: true
 published: true
 ---
-Freelance writer and editor striving for clarity, simplicity, brevity and humanity. Former Tokyo Expat. Founder of [The Talking Book](https://thetalkingbook.org/). Work featured in The Nervous Breakdown, New York Tyrant, Hobart Pulp, Entropy Mag, ESPN, Elke Journal, eBay and many others. [Contact me to solicit work.](http://krishartrum.com/contact/) or me up on twitter [@khartrum](https://twitter.com/KHartrum)
+Freelance writer and editor striving for clarity, simplicity, brevity and humanity. Former Tokyo Expat. Founder of [The Talking Book](thetalkingbook.org). Work featured in The Nervous Breakdown, New York Tyrant, Hobart Pulp, Entropy Mag, ESPN, Elke Journal, eBay and many others. [Contact me to solicit work.](http://krishartrum.com/contact/) or me up on twitter [@khartrum](https://twitter.com/KHartrum)
