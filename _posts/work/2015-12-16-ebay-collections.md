@@ -2,8 +2,8 @@
 layout: work
 categories:
   - work
-link: 'https://www.ebayinc.com/'
-type: writing
+link: 'https://www.ebay.com'
+type: project
 selected: false
 published: true
 title: 'eBay Inc '
