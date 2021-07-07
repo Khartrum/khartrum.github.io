@@ -8,7 +8,7 @@ selected: false
 published: true
 title: 'COLUCCI & COLUCCI '
 domain: 'https://www.colucci-design.com/home'
-genre: Copywriting
+genre: Press Releases
 ---
 ## A New Post
 
