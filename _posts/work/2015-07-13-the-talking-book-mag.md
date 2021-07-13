@@ -3,8 +3,8 @@ layout: work
 categories:
   - work
 link: talkingbook.pub/the
-type: writing
-selected: true
+type: project
+selected: false
 published: true
 title: The Talking Book Mag
 domain: Editor
