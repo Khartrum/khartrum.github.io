@@ -3,7 +3,7 @@ layout: work
 categories:
   - work
 link: 'https://www.ebay.com'
-type: project
+type: writing
 selected: false
 published: true
 title: 'eBay Inc '
