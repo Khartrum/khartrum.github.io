@@ -7,8 +7,8 @@ type: project
 selected: false
 published: true
 title: The Talking Book Mag
-domain: Editor
-genre: Literary Journal
+domain: Literary Journal
+genre: Editor
 ---
 ## A New Post
 
