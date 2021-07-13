@@ -6,7 +6,7 @@ link: talkingbook.pub/the
 type: project
 selected: false
 published: true
-title: The Talking Book Mag
+title: Talking Book Mag
 domain: Literary Journal
 genre: Editor
 ---
