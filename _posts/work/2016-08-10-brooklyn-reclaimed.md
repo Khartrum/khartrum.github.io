@@ -3,7 +3,7 @@ layout: work
 categories:
   - work
 link: 'https://brooklynreclaimed.com/'
-type: project
+type: writing
 selected: false
 published: true
 title: Brooklyn Reclaimed
