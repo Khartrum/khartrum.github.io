@@ -7,7 +7,7 @@ type: project
 selected: true
 published: true
 title: Copywriting
-domain: Samples
+domain: Portfolio
 genre: Marketing Copy
 ---
 [Portfolio](https://www.pinterest.com/krishartrum/writing-portfolio/)## A New Post
