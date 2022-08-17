@@ -4,7 +4,7 @@ categories:
   - work
 link: 'https://www.pinterest.com/krishartrum/writing-portfolio/'
 type: project
-selected: true
+selected: false
 published: true
 title: Copywriting
 domain: Portfolio
