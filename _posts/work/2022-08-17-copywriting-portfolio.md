@@ -3,7 +3,7 @@ layout: work
 categories:
   - work
 link: 'https://www.pinterest.com/krishartrum/writing-portfolio/'
-type: project
+type: writing
 selected: false
 published: true
 title: Copywriting
