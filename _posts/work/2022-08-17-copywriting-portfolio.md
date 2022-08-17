@@ -7,7 +7,7 @@ type: project
 selected: true
 published: true
 title: Copywriting Portfolio
-domain: Portfolio
+domain: Copywriting Portfolio
 ---
 [Portfolio](https://www.pinterest.com/krishartrum/writing-portfolio/)## A New Post
 
