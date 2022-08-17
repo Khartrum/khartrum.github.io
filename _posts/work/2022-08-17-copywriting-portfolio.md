@@ -5,7 +5,7 @@ categories:
 link: 'http://'
 type: writing
 selected: true
-published: false
+published: true
 title: Copywriting Portfolio
 ---
 [Portfolio](https://www.pinterest.com/krishartrum/writing-portfolio/)## A New Post
