@@ -6,8 +6,9 @@ link: 'https://www.pinterest.com/krishartrum/writing-portfolio/'
 type: project
 selected: true
 published: true
-title: Copywriting Portfolio
-domain: Copywriting Portfolio
+title: Copywriting
+domain: Pinterest
+genre: Portfolio
 ---
 [Portfolio](https://www.pinterest.com/krishartrum/writing-portfolio/)## A New Post
 
