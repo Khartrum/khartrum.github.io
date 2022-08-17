@@ -2,11 +2,12 @@
 layout: work
 categories:
   - work
-link: 'http://'
-type: writing
+link: 'https://www.pinterest.com/krishartrum/writing-portfolio/'
+type: project
 selected: true
 published: true
 title: Copywriting Portfolio
+domain: Portfolio
 ---
 [Portfolio](https://www.pinterest.com/krishartrum/writing-portfolio/)## A New Post
 
