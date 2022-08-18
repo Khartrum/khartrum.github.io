@@ -5,7 +5,7 @@ categories:
 link: 'https://www.pinterest.com/krishartrum/writing-portfolio/'
 type: project
 selected: false
-published: true
+published: false
 title: Some Clients
 domain: Portfolio
 genre: Marketing Copy
