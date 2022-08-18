@@ -7,6 +7,6 @@ type: project
 selected: false
 published: true
 title: Talking Book Podcast
-genre: host
+genre: Podcast Copy
 domain: podcast
 ---
