@@ -8,7 +8,7 @@ selected: true
 published: true
 title: PINK CLOUDS
 domain: Maudlin House
-genre: Fiction
+genre: Web Content
 ---
 ## A New Post
 
