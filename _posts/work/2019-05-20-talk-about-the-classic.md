@@ -6,9 +6,9 @@ link: 'https://soundcloud.com/talkabouttheclassic'
 type: project
 selected: false
 published: true
-title: 'Talk About The Classic '
-genre: Podcast Copy
-domain: podcast
+title: Comedy Podcast
+genre: Host
+domain: Talk About The Classic
 ---
 ## A New Post
 
