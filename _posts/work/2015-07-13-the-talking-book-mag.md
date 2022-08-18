@@ -5,7 +5,7 @@ categories:
 link: talkingbook.pub/the
 type: project
 selected: false
-published: false
+published: true
 title: Talking Book Mag
 domain: Literary Journal
 genre: Editor
