@@ -2,7 +2,7 @@
 layout: work
 categories:
   - work
-published: false
+published: true
 title: A Trip to Macau
 link: 'http://culturehome.com/posts/travel-to-macau'
 type: writing
