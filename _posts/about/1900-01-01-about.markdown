@@ -5,7 +5,8 @@ categories:
 official: true
 published: true
 ---
-![IMG_2272.jpg]({{site.baseurl}}/media/IMG_2272.jpg)
+![83lores.jpeg]({{site.baseurl}}/media/83lores.jpeg)
+
 
 
 I write stories, copy and content for legacy companies and badass individuals. My work has appeared at eBay, ESPN, Penguin Randomhouse, UNC Chapel Hill, New Directions, Claudio Colucci Design, Lit Hub, The Nervous Breakdown, New York Tyrant, Hobart Pulp, Entropy Mag, and many others. I am also the founder of The Talking Book where I produce audiobooks for publishers, univerisities and independent authors. Try the [contact form here](http://krishartrum.com/contact) to solicit work. Go to [thetalkingbook.org](thetalkingbook.org) for more about recording books. <3
