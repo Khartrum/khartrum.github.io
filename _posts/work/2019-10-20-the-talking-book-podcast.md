@@ -6,7 +6,7 @@ link: 'https://open.spotify.com/show/086iC767Y34rapJjKKS445'
 type: project
 selected: false
 published: true
-title: Talking Book Podcast
-genre: Podcast Copy
-domain: podcast
+title: Book Podcast
+genre: Writer
+domain: The Talking Book Podcast
 ---
