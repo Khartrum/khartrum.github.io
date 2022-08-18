@@ -8,7 +8,7 @@ selected: false
 published: true
 title: East Fork Interview
 domain: Pottery Company
-genre: Interviewed by
+genre: Interviewed
 ---
 ## A New Post
 
