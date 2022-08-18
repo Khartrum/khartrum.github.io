@@ -5,9 +5,9 @@ categories:
 link: 'https://soundcloud.com/talkabouttheclassic'
 type: project
 selected: false
-published: false
+published: true
 title: 'Talk About The Classic '
-genre: comedy
+genre: Podcast Copy
 domain: podcast
 ---
 ## A New Post
