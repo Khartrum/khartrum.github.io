@@ -6,7 +6,7 @@ link: 'https://www.pinterest.com/krishartrum/writing-portfolio/'
 type: project
 selected: false
 published: false
-title: Some Clients
+title: Pinterest
 domain: Portfolio
 genre: Marketing Copy
 ---
