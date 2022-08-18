@@ -5,8 +5,7 @@ categories:
 official: true
 published: true
 ---
-![83lores.jpeg]({{site.baseurl}}/media/83lores.jpeg)
-![EE5y-JqF_400x400 (1).jpg]({{site.baseurl}}/media/EE5y-JqF_400x400 (1).jpg)
+
 
 
 
