@@ -7,6 +7,6 @@ type: writing
 selected: true
 published: true
 title: Rokugatsu No Hebi
-genre: Fiction
+genre: Web Content
 domain: Hobart Pulp
 ---
