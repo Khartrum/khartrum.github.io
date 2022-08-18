@@ -3,10 +3,10 @@ layout: work
 categories:
   - work
 link: 'https://thetalkingbook.org'
-domain: 'Indie Audiobook Publisher '
+domain: The Talking Book
 type: project
-genre: Web Copy
+genre: Editor
 selected: false
 published: true
-title: The Talking Book
+title: Indie Audiobook Publisher
 ---
