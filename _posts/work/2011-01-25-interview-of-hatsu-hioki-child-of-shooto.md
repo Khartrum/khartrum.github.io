@@ -9,7 +9,7 @@ selected: false
 published: true
 title: 'Interview of Hatsu Hioki: Child Of Shooto'
 domain: middleeasy
-genre: 'Sports Coverage '
+genre: Sports Writing
 ---
 ## A New Post
 
