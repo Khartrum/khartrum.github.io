@@ -3,10 +3,10 @@ layout: work
 categories:
   - work
 link: 'https://www.pinterest.com/krishartrum/writing-portfolio/'
-type: writing
+type: project
 selected: false
 published: true
-title: Copywriting
+title: Some Clients
 domain: Portfolio
 genre: Marketing Copy
 ---
