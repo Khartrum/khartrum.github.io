@@ -9,7 +9,7 @@ selected: false
 published: true
 title: 'THE AGED HAVE DEATH, AND THE YOUNG HAVE LOVE'
 domain: Entropy Magazine
-genre: essay
+genre: Web Content
 ---
 ## A New Post
 
