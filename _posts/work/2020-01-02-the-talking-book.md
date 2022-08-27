@@ -5,7 +5,7 @@ categories:
 link: 'https://thetalkingbook.org'
 domain: The Talking Book
 type: project
-genre: Editor
+genre: Producer
 selected: false
 published: true
 title: Indie Audiobook Publisher
