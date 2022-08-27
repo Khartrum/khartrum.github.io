@@ -12,7 +12,7 @@ title: Writing & Projects
       <h2>Writing</h2>
       <ul>
         {% for post in site.categories.work %}
-        {% if post.type == 'Writer' %}
+        {% if post.type == 'writing' %}
         <li>
             {% if post.link %}
               <a href="{{post.link}}">
@@ -33,7 +33,7 @@ title: Writing & Projects
         <h2>Projects</h2>
         <ul>
         {% for post in site.categories.work %}
-        {% if post.type == 'Producer' %}
+        {% if post.type == 'project' %}
             <li>
               {% if post.link %}
                 <a href="{{post.link}}">
