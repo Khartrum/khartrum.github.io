@@ -7,6 +7,6 @@ type: project
 selected: false
 published: true
 title: Book Podcast
-genre: Writer
+genre: Producer
 domain: The Talking Book Podcast
 ---
