@@ -3,10 +3,10 @@ layout: work
 categories:
   - work
 link: 'https://thetalkingbook.org'
-domain: The Talking Book
+domain: Audio Production House
 type: project
 genre: Producer
 selected: false
 published: true
-title: Indie Audiobook Publisher
+title: The Talking Book
 ---
