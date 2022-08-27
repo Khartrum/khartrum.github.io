@@ -7,7 +7,7 @@ type: project
 selected: false
 published: true
 title: Comedy Podcast
-genre: Host
+genre: Producer
 domain: Talk About The Classic
 ---
 ## A New Post
