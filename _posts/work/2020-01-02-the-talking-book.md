@@ -3,9 +3,9 @@ layout: work
 categories:
   - work
 link: 'https://thetalkingbook.org'
-domain: Audio Production House
+domain: Audiobook
 type: project
-genre: Producer
+genre: Editor
 selected: false
 published: true
 title: The Talking Book
