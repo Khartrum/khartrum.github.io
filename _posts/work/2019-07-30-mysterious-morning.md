@@ -8,7 +8,7 @@ selected: true
 published: true
 title: Mysterious Morning
 domain: The Nervous Breakdown
-genre: Web Content
+genre: Fiction
 ---
 ## A New Post
 
