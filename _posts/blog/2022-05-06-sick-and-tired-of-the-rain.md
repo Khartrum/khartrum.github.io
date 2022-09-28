@@ -6,12 +6,11 @@ published: true
 title: Sick and Tired of the Rain
 ---
 
-Sick and Tired of the Rain by Kris Hartrum
 
-A portrait of MACH Sakurai prior to DREAM 14, in 2010.
-Published at mma-japan.com and tokyofivebrand.com
+A portrait of the fighter MACH Sakurai prior to DREAM 14, in 2010.
+Originally published at mma-japan.com and tokyofivebrand.com
 
-Monday/May 24th/2010
+_Monday, May 24th, 2010_
 
 The MACH dojo is a small rectangular room on the bottom floor of a short building North of Shinjuku at the Sugamo train stop. It is a damp afternoon. There are piles of shoes, sandals and boots scattered under the awning of the gym and spilling out into the wet street. It has just finished raining. Two older Japanese journalists stand at the door looking up at the sky talking about the weather. 
 
