@@ -5,10 +5,10 @@ categories:
 published: true
 title: Sick and Tired of the Rain
 ---
+![1274712309252.1327555097.jpg]({{site.baseurl}}/media/1274712309252.1327555097.jpg)
 
-
-A portrait of the fighter MACH Sakurai prior to DREAM 14, in 2010.
-Originally published at mma-japan.com and tokyofivebrand.com
+**A portrait of the fighter MACH Sakurai prior to DREAM 14, in 2010.
+Originally published at mma-japan.com**
 
 _Monday, May 24th, 2010_
 
