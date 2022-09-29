@@ -92,34 +92,43 @@ When asked about his current condition Sakurai jestfully tells us that these day
 
 From 1996 to 2001, Sakurai hadn't lost for 20 professional fights. He won the Shooto middleweight(167 lbs.) belt and defended it 7 times before meeting current UFC champion Anderson Silva, losing a unanimous decision. He was emotionally crushed; down, but not out. During his 47 fight career he competed in Shooto, DEEP, UFC and Pride where he fought a admirable string of comeback fights, including an impressive run in the 2005 Lightweight Grand Prix, losing only in the final bout to (at that time) an insurmountable version of Takanori Gomi. 
 	
-The questions dwindle to a halt. Sakurai changes into white boxing shorts and poses for the camera. He looks somber, having shed his expected visual confidence. People clear out, exchanging the Japanese thank you hundreds of times. Sakurai's PR girl tells the translator that he'd like to go to the cafe next door to talk a little more. It's drizzling outside. MACH walks in front of us in the boxing shorts and sandals and a black t-shirt. Young kids stand outside a convenient store smoking cigarettes. They're looking at him wondering if they should know who he is. Some of them might.    
+The questions dwindle to a halt. Sakurai changes into white boxing shorts and poses for the camera. He looks somber, having shed his expected visual confidence. People clear out, exchanging endless _arigatos_. 
 
-The cafe is old an decorated in the Japanese fashion. It's nearly empty and we head to the back, the middle aged waitress motioning us to sit down wherever we like. Sakurai downs two glasses of water and then orders an ice tea. His leg is up on the chair and he's tearing a bit of the paper from his straw-wrapper. We ask him again about how he feels for a fighter with 47 battles behind him. 
+Sakurai's PR girl tells the translator that he'd like to go to the cafe next door to talk a little more. It's drizzling outside. MACH walks in front of us in the boxing shorts and sandals and a black t-shirt. Young kids stand outside a convenient store smoking cigarettes. They're looking at him wondering if they should know who he is. Some of them might.    
 
-"There's no concern for my body now. I should think about things long term," he says. "No matter what, there will always be another fight. It will never stop if I'm not conscious of it." He seems slightly miffed about the possibility of his own retirement. We talk about the condition of the sport in Japan and he does not seem optimistic. According to MACH there are less and less young Japanese standouts. 
+The cafe is old an decorated in the Japanese fashion. It's nearly empty and we head to the back, the middle aged waitress motioning us to sit down wherever we like. Sakurai downs two glasses of water and then orders an ice tea. His leg is up on the chair and he's tearing a bit of the paper from his straw-wrapper. We ask him again about how he feels as a fighter with 47 battles behind him. 
 
-"Why is Aoki the only good, young fighter from Japan? Everyone else is an old guy. The old guys can't carry us forever. Something's gotta change," he says. Maybe he's the guy to do it, I think. Maybe not. 
+"There's no concern for my body now. I should think about things long term," he says. "No matter what, there will always be another fight. It will never stop if I'm not conscious of it." He seems slightly miffed about the possibility of his own retirement. 
+
+We talk about the condition of the sport in Japan and he does not seem optimistic. According to MACH there are less and less young Japanese standouts. 
+
+"Why is Aoki the only good, young fighter from Japan? Everyone else is an old guy. The old guys can't carry us forever. Something's gotta change," he says. 
 	
 When Hayato Sakurai first entered MMA it was not about money, but about a social rebellion. In a country where conformity is expected, becoming a prize fighter is especially tiresome. 
 
-"There's just not enough money," he tells us, clenching his jaw.
-"Spend it on young MMA fighters who are trying to make something with their lives." 
+"There's just not enough money," he tells us, clenching his jaw. "Spend it on young MMA fighters who are trying to make something with their lives." 
 	
-He talks about fighters like Satoshi Ishii coming in from Judo and making more money than anyone else. He is naturally bothered by the whole subject. For a tense moment he is quiet. He changes gears and asks us how old we are and tells the Australian to train at his gym. 
+He talks about fighters like Satoshi Ishii coming in from Judo and making more money than anyone else. He is naturally bothered. For a moment he is silent. He changes gears and asks us how old we are and tells us we should train at his gym. 
 
 "I've got Takafumi Otsuka teaching there now. I need more guys to teach so I don't have to." He laughs. 
 
-Sakurai stands and yawns looking through the windows into the street. We shake hands and he walks out the front door and into the greyness of the early evening. The PR girl leans over to us and explains that he's very edgy. 
+Sakurai stands and yawns, looking through the windows into the street. We shake hands and he walks out the front door and into the greyness of the early evening. The PR girl leans over to us and explains that he's very edgy. 
 
 "Don't think he is a negative person," shes says. "He always gets very emotional before a big fight."
-
-It is safe to say that Hayato MACH Sakurai is a man of great passion. Whether he wins or loses against Nick Diaz on Saturday, Japan and the fans of mixed martial arts can sleep well knowing there are those who truly give a damn about the future of this beautiful sport. In a lifestyle where you've gotta tear yourself to pieces to make a buck, there must be some trace of emotional fire to rage through all those intolerable rainy seasons. 
 	
-Post Script:
+EPILOGUE
 
-Saturday/May 29th/ 2010
+_Saturday/May 29th/2010_
 
-   THE CROWD WAS AT AN ALL TIME LOW, having just witnessed Kazushi Sakuraba lose a close decision to Rorion Gracie's son, Ralek in Saitama Super Arena on the night of DREAM 14.
-   As he made his approach to the bleach-white cage, MACH looked modest and focused on the prize that was the defeat of his opponent, Nick Diaz . Touching gloves, he inhaled and released heavily.
-   In the early seconds after the bell, Hayato Sakurai smoothly countered the much taller Diaz with two left hooks and then a right. The American, not fairing well in the stand up, caught MACH's kick and threw him to the mat. Sakurai played it cool and struggled back to his feet, letting go an overhand right that had everyone edging over the seats in front of them. The STRIKEFORCE king stumbled and was dazed. Witnessing what he believed to be his golden moment, Sakurai shot in for a double leg, landing both of them into the wall of the cage. With Diaz on the bottom, MACH struggled for dominance in the guard. He looked awkward, being pressed uncomfortably against the white netting. Diaz worked, tied him up with long limbs and locked in an armbar.  After clawing for an exit, the 34 year old MACH Sakurai tapped with 1:07 left on the clock. He apologized to the referee for losing and shook his head as Diaz raised an arm in victory. When asked about his retirement, Sakurai could only laugh.
-   "The darkness," he said. "The darkness is right in front of me. I've just got bad luck."
+
+AT DREAM 14 THE CROWD WAS AT AN ALL TIME LOW, having just witnessed Kazushi Sakuraba lose a close decision to Rorion Gracie's son Ralek.
+ 
+As he made his approach to the bleach-white cage, MACH looked modest and focused on the target. Touching gloves, he inhaled and released.
+
+In the early seconds after the bell, Hayato Sakurai smoothly countered the much taller Diaz with two left hooks and then a right. The American, not fairing well in the stand up, caught MACH's kick and threw him to the mat. Sakurai played it cool and struggled back to his feet, letting go an overhand right that had the crowd on their feet. The STRIKEFORCE king stumbled, seemingly dazed. 
+   
+Witnessing what he believed to be his golden moment, Sakurai shot in for a double leg, landing the pair on the wall of the cage. With Diaz on the bottom, MACH struggled for dominance in the guard. He looked awkward, being pressed uncomfortably against the cage. 
+   
+Diaz worked, tying him up with long limbs and locked in an armbar. After clawing for an exit, the 34 year old MACH Sakurai tapped with 1:07 left on the clock. He apologized to the referee for losing and shook his head as Diaz raised an arm in victory. When asked about his retirement, Sakurai could only laugh.
+   
+"The darkness," he said. "The darkness is right in front of me. I've just got bad luck."
