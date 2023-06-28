@@ -5,7 +5,7 @@ categories:
 link: 'http://thenervousbreakdown.com/khartrum/2019/07/mysterious-morning/'
 type: writing
 selected: true
-published: true
+published: false
 title: Mysterious Morning
 domain: The Nervous Breakdown
 genre: Fiction
