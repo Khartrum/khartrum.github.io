@@ -5,8 +5,8 @@ categories:
 link: 'https://joylandmagazine.com/fiction/waterfall/'
 type: writing
 selected: true
-published: false
-title: ''
+published: true
+title: Waterfall
 genre: Essay
 domain: Joyland Magazine
 ---
