@@ -6,4 +6,4 @@ official: true
 published: true
 ---
 
-I write stories and produce audiobooks and podcasts for publishers, companies, and cool people. My work has appeared at Penguin Randomhouse, UNC Chapel Hill, New Directions, Lit Hub, The Nervous Breakdown, New York Tyrant, Hobart Pulp, Entropy Mag, and many others. Try the [contact form here](http://krishartrum.com/contact) to solicit work. Go to thetalkingbook.org for more about recording books. <3
+I write stories and produce audiobooks and podcasts. My work has appeared in Joyland Magazine, Penguin Randomhouse, UNC Chapel Hill, New Directions, Lit Hub, The Nervous Breakdown, New York Tyrant, Hobart Pulp, Entropy Mag, and many others. Try the [contact form here](http://krishartrum.com/contact) to solicit work. Go to thetalkingbook.org for more about recording books. <3
