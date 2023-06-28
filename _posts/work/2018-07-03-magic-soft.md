@@ -7,6 +7,6 @@ type: writing
 selected: true
 published: true
 title: Magic Soft
-genre: Web Content
+genre: fiction
 domain: The New York Tyrant
 ---
