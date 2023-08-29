@@ -7,7 +7,7 @@ type: project
 selected: false
 published: true
 title: Talking Book Pub
-domain: Journal
+domain: Lit Journal Of The Talking Book
 genre: Editor
 ---
 ## A New Post
