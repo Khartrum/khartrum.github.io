@@ -7,7 +7,7 @@ selected: false
 published: false
 title: 'Karate Heartbreak Tumblr '
 domain: tumblr
-link: 'https://khartrum.tumblr.com/'
+link: 'https://karateheartbreak.tumblr.com/'
 genre: blog
 ---
 ## A New Post
